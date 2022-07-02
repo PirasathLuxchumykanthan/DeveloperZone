@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "FMzNQR6HWWIysY+XesT9JN9ccZUY0/y6yVhct8rbUYw=",
+  "Source": "R",
+  "BasePath": "_content/R",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "R\\wwwroot",
+      "Source": "R",
+      "ContentRoot": "D:\\OS\\Developer\\R\\wwwroot\\",
+      "BasePath": "_content/R",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\OS\\Developer\\R\\obj\\Debug\\net6.0\\scopedcss\\bundle\\R.styles.css",
+      "SourceId": "R",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\R\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/R",
+      "RelativePath": "R.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\OS\\Developer\\R\\obj\\Debug\\net6.0\\scopedcss\\bundle\\R.styles.css"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\R\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\R.bundle.scp.css",
+      "SourceId": "R",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\R\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/R",
+      "RelativePath": "R.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\OS\\Developer\\R\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\R.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\R\\wwwroot\\background.png",
+      "SourceId": "R",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\OS\\Developer\\R\\wwwroot\\",
+      "BasePath": "_content/R",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\R\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "R",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\OS\\Developer\\R\\wwwroot\\",
+      "BasePath": "_content/R",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

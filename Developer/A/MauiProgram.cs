@@ -1,6 +1,5 @@
-﻿using A.Data;
+﻿
 using Microsoft.AspNetCore.Components.WebView.Maui;
-
 namespace A
 {
     public static class MauiProgram
@@ -9,18 +8,13 @@ namespace A
         {
             var builder = MauiApp.CreateBuilder();
             builder
-                .UseMauiApp<App>()
-                .ConfigureFonts(fonts =>
-                {
-                    fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
-                });
+                .UseMauiApp<App>();
 
             builder.Services.AddMauiBlazorWebView();
 #if DEBUG
 		builder.Services.AddBlazorWebViewDeveloperTools();
 #endif
 
-            builder.Services.AddSingleton<WeatherForecastService>();
 
             return builder.Build();
         }

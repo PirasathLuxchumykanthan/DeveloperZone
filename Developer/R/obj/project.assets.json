@@ -172,6 +172,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "C/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/C.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/C.dll": {}
+        }
       }
     }
   },
@@ -487,10 +497,16 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "C/1.0.0": {
+      "type": "project",
+      "path": "../C/C.csproj",
+      "msbuildProject": "../C/C.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "C >= 1.0.0",
       "Microsoft.AspNetCore.Components.Web >= 6.0.5"
     ]
   },
@@ -526,7 +542,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\OS\\Developer\\C\\C.csproj": {
+              "projectPath": "D:\\OS\\Developer\\C\\C.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

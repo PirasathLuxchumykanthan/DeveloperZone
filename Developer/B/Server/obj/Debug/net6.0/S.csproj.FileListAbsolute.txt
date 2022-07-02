@@ -1,0 +1,1 @@
+D:\OS\Developer\B\Server\obj\Debug\net6.0\S.csproj.AssemblyReference.cache

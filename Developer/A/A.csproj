@@ -3,8 +3,7 @@
 	<PropertyGroup>
 		<TargetFrameworks>net6.0-android;net6.0-ios;net6.0-maccatalyst</TargetFrameworks>
 		<TargetFrameworks Condition="$([MSBuild]::IsOSPlatform('windows'))">$(TargetFrameworks);net6.0-windows10.0.19041.0</TargetFrameworks>
-		<!-- Uncomment to also build the tizen app. You will need to install tizen by following this: https://github.com/Samsung/Tizen.NET -->
-		<!-- <TargetFrameworks>$(TargetFrameworks);net6.0-tizen</TargetFrameworks> -->
+		<TargetFrameworks>$(TargetFrameworks);net6.0-tizen</TargetFrameworks>
 		<OutputType>Exe</OutputType>
 		<RootNamespace>A</RootNamespace>
 		<UseMaui>true</UseMaui>
@@ -13,11 +12,11 @@
 		<EnableDefaultCssItems>false</EnableDefaultCssItems>
 
 		<!-- Display name -->
-		<ApplicationTitle>A</ApplicationTitle>
+		<ApplicationTitle>OBJECT:SOCIAL</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.a</ApplicationId>
-		<ApplicationIdGuid>2E57E056-E455-4DC7-9F68-32B9425996D4</ApplicationIdGuid>
+		<ApplicationId>social.object.app</ApplicationId>
+		<ApplicationIdGuid>FAFE194D-E415-4BD8-B6A4-FBFB7999778C</ApplicationIdGuid>
 
 		<!-- Versions -->
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
@@ -30,23 +29,56 @@
 		<TargetPlatformMinVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'windows'">10.0.17763.0</TargetPlatformMinVersion>
 		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'tizen'">6.5</SupportedOSPlatformVersion>
 	</PropertyGroup>
+	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net6.0-android|AnyCPU'">
 
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net6.0-android|AnyCPU'">
+
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net6.0-ios|AnyCPU'">
+		<CodesignKey>Apple Distribution: OBJECT:SOCIAL ApS (C786832DJN)</CodesignKey>
+		<ProvisioningType>automatic</ProvisioningType>
+		<CodesignEntitlements>Configuration.plist</CodesignEntitlements>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net6.0-ios|AnyCPU'">
+		<CodesignKey>Apple Distribution: OBJECT:SOCIAL ApS (C786832DJN)</CodesignKey>
+		<ProvisioningType>automatic</ProvisioningType>
+		<CodesignEntitlements>Configuration.plist</CodesignEntitlements>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net6.0-maccatalyst|AnyCPU'">
+		<CodesignKey>Apple Distribution: OBJECT:SOCIAL ApS (C786832DJN)</CodesignKey>
+		<ProvisioningType>automatic</ProvisioningType>
+		<CodesignEntitlements>Configuration.plist</CodesignEntitlements>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net6.0-maccatalyst|AnyCPU'">
+		<CodesignKey>Apple Distribution: OBJECT:SOCIAL ApS (C786832DJN)</CodesignKey>
+		<ProvisioningType>automatic</ProvisioningType>
+		<CodesignEntitlements>Configuration.plist</CodesignEntitlements>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net6.0-windows10.0.19041.0|AnyCPU'">
+
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net6.0-windows10.0.19041.0|AnyCPU'">
+
+	</PropertyGroup>
 	<ItemGroup>
 		<!-- App Icon -->
-		<MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\AppIcon\appiconfg.svg" Color="#512BD4" />
-
-		<!-- Splash Screen -->
-		<MauiSplashScreen Include="Resources\Splash\splash.svg" Color="#512BD4" BaseSize="128,128" />
-
-		<!-- Images -->
-		<MauiImage Include="Resources\Images\*" />
-		<MauiImage Update="Resources\Images\dotnet_bot.svg" BaseSize="168,208" />
-
-		<!-- Custom Fonts -->
-		<MauiFont Include="Resources\Fonts\*" />
-
+		<MauiIcon ForegroundFile="Resources\AppIcon\appicon.png" Include="Resources\AppIcon\appicon.svg" BaseSize="540,540" />
+		<!--SplashScreen-->
+		<MauiSplashScreen Include="Resources\Splash\splash.svg" Color="#000000" ForegroundFile="Resources\AppIcon\appicon.png" BaseSize="240,240" />
 		<!-- Raw Assets (also remove the "Resources\Raw" prefix) -->
 		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\R\R.csproj" />
 	</ItemGroup>
 
 </Project>

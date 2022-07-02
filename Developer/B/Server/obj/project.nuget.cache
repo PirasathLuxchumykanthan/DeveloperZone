@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2/uR06C+8aQRbdPywENZHxdQhgvQN3C5JRpDSltpnfKCIDgQ5LYy2cSciea3GRJ0JiD8JnmhlGYUh5MYMEGUVA==",
+  "dgSpecHash": "pcE0LER/WUeb7ldsFclpyk3ib553h3uxfgc1Lly6KcM6ZtCHuZ1fz21vGuvSurYsI2dHjFcXyGVDKXlTtXjCOw==",
   "success": true,
   "projectFilePath": "D:\\OS\\Developer\\B\\Server\\S.csproj",
   "expectedPackageFiles": [
@@ -28,11 +28,20 @@
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.jsinterop\\6.0.5\\microsoft.jsinterop.6.0.5.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.5\\microsoft.jsinterop.webassembly.6.0.5.nupkg.sha512",
+    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.qualitytools.testing.fakes\\16.11.230815\\microsoft.qualitytools.testing.fakes.16.11.230815.nupkg.sha512",
+    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
+    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

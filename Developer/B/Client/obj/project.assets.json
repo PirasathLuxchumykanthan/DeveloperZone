@@ -390,6 +390,30 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "C/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/C.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/C.dll": {}
+        }
+      },
+      "R/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "C": "1.0.0",
+          "Microsoft.AspNetCore.Components.Web": "6.0.5"
+        },
+        "compile": {
+          "bin/placeholder/R.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/R.dll": {}
+        }
       }
     },
     "net6.0/browser-wasm": {
@@ -774,6 +798,30 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "C/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/C.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/C.dll": {}
+        }
+      },
+      "R/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "C": "1.0.0",
+          "Microsoft.AspNetCore.Components.Web": "6.0.5"
+        },
+        "compile": {
+          "bin/placeholder/R.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/R.dll": {}
         }
       }
     }
@@ -1537,12 +1585,23 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "C/1.0.0": {
+      "type": "project",
+      "path": "../../C/C.csproj",
+      "msbuildProject": "../../C/C.csproj"
+    },
+    "R/1.0.0": {
+      "type": "project",
+      "path": "../../R/R.csproj",
+      "msbuildProject": "../../R/R.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.AspNetCore.Components.WebAssembly >= 6.0.5",
-      "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.5"
+      "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 6.0.5",
+      "R >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1577,7 +1636,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\OS\\Developer\\R\\R.csproj": {
+              "projectPath": "D:\\OS\\Developer\\R\\R.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
