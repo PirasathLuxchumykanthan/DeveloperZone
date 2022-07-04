@@ -1,0 +1,969 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0/tizen-x86",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {},
+    ".NETCoreApp,Version=v6.0/tizen-x86": {
+      "A/1.0.0": {
+        "dependencies": {
+          "A_A": "1.0.0",
+          "A_B": "1.0.0",
+          "A_C": "1.0.0",
+          "D_A": "1.0.0",
+          "D_A_A_A": "1.0.0",
+          "D_A_A_B": "1.0.0",
+          "E_B": "1.0.0",
+          "E_C": "1.0.0",
+          "Microsoft.AspNetCore.Components.WebView.Maui": "6.0.400",
+          "Microsoft.Maui.Dependencies": "6.0.400",
+          "Microsoft.Maui.Extensions": "6.0.400",
+          "runtimepack.Microsoft.Maui.Core.Runtime.tizen": "6.0.400",
+          "runtimepack.Microsoft.Maui.Controls.Runtime.tizen": "6.0.400",
+          "runtimepack.Microsoft.Maui.Essentials.Runtime.tizen": "6.0.400"
+        },
+        "runtime": {
+          "A.dll": {}
+        }
+      },
+      "runtimepack.Microsoft.Maui.Core.Runtime.tizen/6.0.400": {
+        "runtime": {
+          "Microsoft.Maui.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "6.0.400.0"
+          }
+        }
+      },
+      "runtimepack.Microsoft.Maui.Controls.Runtime.tizen/6.0.400": {
+        "runtime": {
+          "Microsoft.Maui.Controls.Compatibility.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "6.0.400.0"
+          },
+          "Microsoft.Maui.Controls.Xaml.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "6.0.400.0"
+          },
+          "Microsoft.Maui.Controls.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "6.0.400.0"
+          }
+        }
+      },
+      "runtimepack.Microsoft.Maui.Essentials.Runtime.tizen/6.0.400": {
+        "runtime": {
+          "Microsoft.Maui.Essentials.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "6.0.400.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Authorization/6.0.5": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Metadata": "6.0.5",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.1",
+          "Microsoft.Extensions.Options": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Authorization.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.522.21802"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Components/6.0.5": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Authorization": "6.0.5",
+          "Microsoft.AspNetCore.Components.Analyzers": "6.0.5"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.522.21802"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Components.Analyzers/6.0.5": {},
+      "Microsoft.AspNetCore.Components.Forms/6.0.5": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "6.0.5"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.Forms.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.522.21802"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Components.Web/6.0.5": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "6.0.5",
+          "Microsoft.AspNetCore.Components.Forms": "6.0.5",
+          "Microsoft.Extensions.DependencyInjection": "6.0.0",
+          "Microsoft.JSInterop": "6.0.5",
+          "System.IO.Pipelines": "6.0.3"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.Web.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.522.21802"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Components.WebView/6.0.5": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.5",
+          "Microsoft.Extensions.Configuration.Binder": "6.0.0",
+          "Microsoft.Extensions.Configuration.Json": "6.0.0",
+          "Microsoft.Extensions.FileProviders.Composite": "6.0.0",
+          "Microsoft.Extensions.FileProviders.Embedded": "6.0.5",
+          "Microsoft.Extensions.Logging": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Components.WebView.dll": {
+            "assemblyVersion": "6.0.5.0",
+            "fileVersion": "6.0.522.21802"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Components.WebView.Maui/6.0.400": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Authorization": "6.0.5",
+          "Microsoft.AspNetCore.Components.WebView": "6.0.5",
+          "Microsoft.JSInterop": "6.0.5",
+          "Microsoft.Maui.Graphics.Skia": "6.0.403",
+          "Tizen.UIExtensions.ElmSharp": "0.8.1"
+        },
+        "runtime": {
+          "lib/net6.0-tizen7.0/Microsoft.AspNetCore.Components.WebView.Maui.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "6.0.400.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Metadata/6.0.5": {
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Metadata.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.522.21802"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration/6.0.1": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Primitives": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.322.12309"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/6.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Binder/6.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.FileExtensions/6.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "6.0.1",
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
+          "Microsoft.Extensions.FileProviders.Abstractions": "6.0.0",
+          "Microsoft.Extensions.FileProviders.Physical": "6.0.0",
+          "Microsoft.Extensions.Primitives": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Configuration.FileExtensions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.Configuration.Json/6.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "6.0.1",
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Configuration.FileExtensions": "6.0.0",
+          "Microsoft.Extensions.FileProviders.Abstractions": "6.0.0",
+          "System.Text.Json": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Extensions.Configuration.Json.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/6.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Abstractions/6.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Composite/6.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.FileProviders.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Primitives": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.FileProviders.Composite.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Embedded/6.0.5": {
+        "dependencies": {
+          "Microsoft.Extensions.FileProviders.Abstractions": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.FileProviders.Embedded.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.522.21802"
+          }
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Physical/6.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.FileProviders.Abstractions": "6.0.0",
+          "Microsoft.Extensions.FileSystemGlobbing": "6.0.0",
+          "Microsoft.Extensions.Primitives": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.FileProviders.Physical.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.FileSystemGlobbing/6.0.0": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging/6.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "6.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.1",
+          "Microsoft.Extensions.Options": "6.0.0",
+          "System.Diagnostics.DiagnosticSource": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Extensions.Logging.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/6.0.1": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.322.12309"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options/6.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Extensions.Primitives": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.Extensions.Options.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/6.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Microsoft.JSInterop/6.0.5": {
+        "runtime": {
+          "lib/net6.0/Microsoft.JSInterop.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.522.21802"
+          }
+        }
+      },
+      "Microsoft.Maui.Dependencies/6.0.400": {
+        "dependencies": {
+          "Microsoft.Maui.Graphics": "6.0.403",
+          "Microsoft.Maui.Graphics.Skia": "6.0.403",
+          "Tizen.UIExtensions.ElmSharp": "0.8.1"
+        }
+      },
+      "Microsoft.Maui.Extensions/6.0.400": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": "6.0.1",
+          "Microsoft.Extensions.DependencyInjection": "6.0.0",
+          "Microsoft.Extensions.Logging": "6.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.1"
+        }
+      },
+      "Microsoft.Maui.Graphics/6.0.403": {
+        "runtime": {
+          "lib/net6.0-tizen6.5/Microsoft.Maui.Graphics.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "6.0.400.3"
+          }
+        }
+      },
+      "Microsoft.Maui.Graphics.Skia/6.0.403": {
+        "dependencies": {
+          "Microsoft.Maui.Graphics": "6.0.403",
+          "SkiaSharp": "2.88.0",
+          "SkiaSharp.Views": "2.88.0"
+        },
+        "runtime": {
+          "lib/net6.0-tizen6.5/Microsoft.Maui.Graphics.Skia.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "6.0.400.3"
+          }
+        }
+      },
+      "SkiaSharp/2.88.0": {
+        "dependencies": {
+          "SkiaSharp.NativeAssets.Tizen": "2.88.0",
+          "System.Memory": "4.5.3"
+        },
+        "runtime": {
+          "lib/tizen40/SkiaSharp.dll": {
+            "assemblyVersion": "2.88.0.0",
+            "fileVersion": "2.88.0.0"
+          }
+        }
+      },
+      "SkiaSharp.NativeAssets.Tizen/2.88.0": {},
+      "SkiaSharp.Views/2.88.0": {
+        "dependencies": {
+          "SkiaSharp": "2.88.0"
+        },
+        "runtime": {
+          "lib/tizen40/SkiaSharp.Views.Tizen.dll": {
+            "assemblyVersion": "2.88.0.0",
+            "fileVersion": "2.88.0.0"
+          }
+        }
+      },
+      "System.Diagnostics.DiagnosticSource/6.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Diagnostics.DiagnosticSource.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.IO.Pipelines/6.0.3": {
+        "runtime": {
+          "lib/net6.0/System.IO.Pipelines.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.522.21309"
+          }
+        }
+      },
+      "System.Memory/4.5.3": {},
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+        "runtime": {
+          "lib/net6.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.Text.Encodings.Web/6.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Text.Encodings.Web.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.Text.Json/6.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0",
+          "System.Text.Encodings.Web": "6.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/System.Text.Json.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "Tizen.UIExtensions.ElmSharp/0.8.1": {
+        "dependencies": {
+          "Microsoft.Maui.Graphics": "6.0.403",
+          "Microsoft.Maui.Graphics.Skia": "6.0.403"
+        },
+        "runtime": {
+          "lib/net6.0-tizen6.5/Tizen.UIExtensions.ElmSharp.dll": {
+            "assemblyVersion": "0.8.1.0",
+            "fileVersion": "0.8.1.0"
+          }
+        }
+      },
+      "A_A/1.0.0": {
+        "dependencies": {
+          "E_A": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "6.0.0",
+          "Microsoft.Maui.Dependencies": "6.0.400",
+          "Microsoft.Maui.Extensions": "6.0.400"
+        },
+        "runtime": {
+          "A_A.dll": {}
+        }
+      },
+      "A_B/1.0.0": {
+        "dependencies": {
+          "E_C": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.Maui.Dependencies": "6.0.400",
+          "Microsoft.Maui.Extensions": "6.0.400"
+        },
+        "runtime": {
+          "A_B.dll": {}
+        }
+      },
+      "A_C/1.0.0": {
+        "dependencies": {
+          "E_D": "1.0.0",
+          "Microsoft.Maui.Dependencies": "6.0.400",
+          "Microsoft.Maui.Extensions": "6.0.400"
+        },
+        "runtime": {
+          "A_C.dll": {}
+        }
+      },
+      "D_A/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.5"
+        },
+        "runtime": {
+          "D_A.dll": {}
+        }
+      },
+      "D_A_A_A/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.5"
+        },
+        "runtime": {
+          "D_A_A_A.dll": {}
+        }
+      },
+      "D_A_A_B/1.0.0": {
+        "dependencies": {
+          "E_C": "1.0.0",
+          "E_D": "1.0.0",
+          "Microsoft.AspNetCore.Components.Web": "6.0.5"
+        },
+        "runtime": {
+          "D_A_A_B.dll": {}
+        }
+      },
+      "E_A/1.0.0": {
+        "runtime": {
+          "E_A.dll": {}
+        }
+      },
+      "E_B/1.0.0": {
+        "dependencies": {
+          "E_C": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "runtime": {
+          "E_B.dll": {}
+        }
+      },
+      "E_C/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
+        "runtime": {
+          "E_C.dll": {}
+        }
+      },
+      "E_D/1.0.0": {
+        "runtime": {
+          "E_D.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.Maui.Core.Runtime.tizen/6.0.400": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.Maui.Controls.Runtime.tizen/6.0.400": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.Maui.Essentials.Runtime.tizen/6.0.400": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Authorization/6.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T3J4Z4xK/mmJlMv/j7Cs1PZjRLh1fGsvHay3RNBNooP0qhHCk3UnU+WgBvcGApZFnEfeyOEGZBHZv5gb1RrDLA==",
+      "path": "microsoft.aspnetcore.authorization/6.0.5",
+      "hashPath": "microsoft.aspnetcore.authorization.6.0.5.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components/6.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pm7wo05ANEduCj/HCKVIvBLL8BzszHttgHtX/hbV5f6xb6/0oCsTuZexRmBfM30PrlbQDjzWuH1rpiPYP30l7g==",
+      "path": "microsoft.aspnetcore.components/6.0.5",
+      "hashPath": "microsoft.aspnetcore.components.6.0.5.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.Analyzers/6.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zxAXJIA/VL3BkqBPvgNiojppfmhmOIB8JtWi1Q85kcy1MGxwOi+UXAFXlvaMliocrycUazTguZBTXMhC2jFiow==",
+      "path": "microsoft.aspnetcore.components.analyzers/6.0.5",
+      "hashPath": "microsoft.aspnetcore.components.analyzers.6.0.5.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.Forms/6.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yh8bWPxPkJ/60IHVA6Vv5dPuyG/i4LiG6Nwkq/8ejtHn/hyGuPBrcsymBjLGQEqSmhTPnqteIL9BOP7VBYV1NQ==",
+      "path": "microsoft.aspnetcore.components.forms/6.0.5",
+      "hashPath": "microsoft.aspnetcore.components.forms.6.0.5.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.Web/6.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QbPAY7trw1IpafCIbizib1IW/3Lqxf3AJ6tCO/FzbmvWeImD3rNLrgWb3gH7Mz+RtkmYmbrfdEk4eh9mW/2tGg==",
+      "path": "microsoft.aspnetcore.components.web/6.0.5",
+      "hashPath": "microsoft.aspnetcore.components.web.6.0.5.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.WebView/6.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZtjN228MBnvvsy6GQ8pMsODGvJQa6989mkIZw1WUSJJnmEMfrT6WjSLe7RuRzV2lG+OO7nDIEQ5sxrpq2ZTExQ==",
+      "path": "microsoft.aspnetcore.components.webview/6.0.5",
+      "hashPath": "microsoft.aspnetcore.components.webview.6.0.5.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.WebView.Maui/6.0.400": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+NmDIkHqz7vZr+NudzTF8bdPJNQmJtn9YG/pnJBY3O/XKoe0oAelAhMiniEU5YpNMMG1FizNK1kygXDet+fLkQ==",
+      "path": "microsoft.aspnetcore.components.webview.maui/6.0.400",
+      "hashPath": "microsoft.aspnetcore.components.webview.maui.6.0.400.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Metadata/6.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4VRJoJa/EbncxQTAzM6abqQUUbNrohg5MC1glZ1R1lzzXJM2CdXiRKvcpAfn3luAwPzkwJtHejuLgI6Osn0aDA==",
+      "path": "microsoft.aspnetcore.metadata/6.0.5",
+      "hashPath": "microsoft.aspnetcore.metadata.6.0.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BUyFU9t+HzlSE7ri4B+AQN2BgTgHv/uM82s5ZkgU1BApyzWzIl48nDsG5wR1t0pniNuuyTBzG3qCW8152/NtSw==",
+      "path": "microsoft.extensions.configuration/6.0.1",
+      "hashPath": "microsoft.extensions.configuration.6.0.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qWzV9o+ZRWq+pGm+1dF+R7qTgTYoXvbyowRoBxQJGfqTpqDun2eteerjRQhq5PQ/14S+lqto3Ft4gYaRyl4rdQ==",
+      "path": "microsoft.extensions.configuration.abstractions/6.0.0",
+      "hashPath": "microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Binder/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-b3ErKzND8LIC7o08QAVlKfaEIYEvLJbtmVbFZVBRXeu9YkKfSSzLZfR1SUfQPBIy9mKLhEtJgGYImkcMNaKE0A==",
+      "path": "microsoft.extensions.configuration.binder/6.0.0",
+      "hashPath": "microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.FileExtensions/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V4Dth2cYMZpw3HhGw9XUDIijpI6gN+22LDt0AhufIgOppCUfpWX4483OmN+dFXRJkJLc8Tv0Q8QK+1ingT2+KQ==",
+      "path": "microsoft.extensions.configuration.fileextensions/6.0.0",
+      "hashPath": "microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Configuration.Json/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GJGery6QytCzS/BxJ96klgG9in3uH26KcUBbiVG/coNDXCRq6LGVVlUT4vXq34KPuM+R2av+LeYdX9h4IZOCUg==",
+      "path": "microsoft.extensions.configuration.json/6.0.0",
+      "hashPath": "microsoft.extensions.configuration.json.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k6PWQMuoBDGGHOQTtyois2u4AwyVcIwL2LaSLlTZQm2CYcJ1pxbt6jfAnpWmzENA/wfrYRI/X9DTLoUkE4AsLw==",
+      "path": "microsoft.extensions.dependencyinjection/6.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xlzi2IYREJH3/m6+lUrQlujzX8wDitm4QGnUu6kUXTQAWPuZY8i+ticFJbzfqaetLA6KR/rO6Ew/HuYD+bxifg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/6.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileProviders.Abstractions/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0pd4/fho0gC12rQswaGQxbU34jOS1TPS8lZPpkFCH68ppQjHNHYle9iRuHeev1LhrJ94YPvzcRd8UmIuFk23Qw==",
+      "path": "microsoft.extensions.fileproviders.abstractions/6.0.0",
+      "hashPath": "microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileProviders.Composite/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Cx8K9xnN95wbvKa/KTyDBVBaNUsS9L8IkKt2dKMkcyj0wOBe+xVMwyNR4ySmpxBK3b0PuP7tW6UtroXIlRC3uQ==",
+      "path": "microsoft.extensions.fileproviders.composite/6.0.0",
+      "hashPath": "microsoft.extensions.fileproviders.composite.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileProviders.Embedded/6.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z7M3GpcYfKw1FYUGcurTbv/v0ZZ95LSMOZOjOtYLUztzUIUZZ61H5NFjLXjeQ8G72zxrVrt+jubb4MZGvm0EQw==",
+      "path": "microsoft.extensions.fileproviders.embedded/6.0.5",
+      "hashPath": "microsoft.extensions.fileproviders.embedded.6.0.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileProviders.Physical/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QvkL7l0nM8udt3gfyu0Vw8bbCXblxaKOl7c2oBfgGy4LCURRaL9XWZX1FWJrQc43oMokVneVxH38iz+bY1sbhg==",
+      "path": "microsoft.extensions.fileproviders.physical/6.0.0",
+      "hashPath": "microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileSystemGlobbing/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ip8jnL1aPiaPeKINCqaTEbvBFDmVx9dXQEBZ2HOBRXPD1eabGNqP/bKlsIcp7U2lGxiXd5xIhoFcmY8nM4Hdiw==",
+      "path": "microsoft.extensions.filesystemglobbing/6.0.0",
+      "hashPath": "microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eIbyj40QDg1NDz0HBW0S5f3wrLVnKWnDJ/JtZ+yJDFnDj90VoPuoPmFkeaXrtu+0cKm5GRAwoDf+dBWXK0TUdg==",
+      "path": "microsoft.extensions.logging/6.0.0",
+      "hashPath": "microsoft.extensions.logging.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dzB2Cgg+JmrouhjkcQGzSFjjvpwlq353i8oBQO2GWNjCXSzhbtBRUf28HSauWe7eib3wYOdb3tItdjRwAdwCSg==",
+      "path": "microsoft.extensions.logging.abstractions/6.0.1",
+      "hashPath": "microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dzXN0+V1AyjOe2xcJ86Qbo233KHuLEY0njf/P2Kw8SfJU+d45HNS2ctJdnEnrWbM9Ye2eFgaC5Mj9otRMU6IsQ==",
+      "path": "microsoft.extensions.options/6.0.0",
+      "hashPath": "microsoft.extensions.options.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9+PnzmQFfEFNR9J2aDTfJGGupShHjOuGw4VUv+JB044biSHrnmCIMD+mJHmb2H7YryrfBEXDurxQ47gJZdCKNQ==",
+      "path": "microsoft.extensions.primitives/6.0.0",
+      "hashPath": "microsoft.extensions.primitives.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.JSInterop/6.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ST48YNjqpW2WNbTFBN5V3fdpnV8Civ6VeewzGtKdtYtBtM0q5afQVnUOwx3w5oeBZNQjn2nk3OZM1tSe10x4lA==",
+      "path": "microsoft.jsinterop/6.0.5",
+      "hashPath": "microsoft.jsinterop.6.0.5.nupkg.sha512"
+    },
+    "Microsoft.Maui.Dependencies/6.0.400": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-v8L1Ul0xC6dw7PJU4v26Ka9Nd9TCp7vB1etLRfv8QEHkWKxYlHSyJQVWw0YW9ViF69UY2mwwiHpGTSCaygbIhg==",
+      "path": "microsoft.maui.dependencies/6.0.400",
+      "hashPath": "microsoft.maui.dependencies.6.0.400.nupkg.sha512"
+    },
+    "Microsoft.Maui.Extensions/6.0.400": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OvwlpszmHcWupNQvIVcOiGnIgRJze/JtQ/9hzphFG5IHKWmhCTePUEvNxYhcImFQP+vRiusjYm8kThGk9V2E5g==",
+      "path": "microsoft.maui.extensions/6.0.400",
+      "hashPath": "microsoft.maui.extensions.6.0.400.nupkg.sha512"
+    },
+    "Microsoft.Maui.Graphics/6.0.403": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U3geHZANTsD8biN1cYOe9E1dU+UuV5mo0hURmLHCXRCTHddZSL0IJYnIF02dLCdCp2mXRGY4elGi789fgRaAlg==",
+      "path": "microsoft.maui.graphics/6.0.403",
+      "hashPath": "microsoft.maui.graphics.6.0.403.nupkg.sha512"
+    },
+    "Microsoft.Maui.Graphics.Skia/6.0.403": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xN5a5B5S6EZDuWIfAhkS61chcx+2B9oaT7zrz3Jj2t8jECrXeue6TkGRYmcr/rIXH2+BN1Dr9aqzz7AW9ExkPw==",
+      "path": "microsoft.maui.graphics.skia/6.0.403",
+      "hashPath": "microsoft.maui.graphics.skia.6.0.403.nupkg.sha512"
+    },
+    "SkiaSharp/2.88.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OKBrwZ4TdRjPjl2tVFbcakyNZBI9zBGFzZKr6DbhgybVpjiBMvIQbbbN4Wfl0lts0TJ5AwHDr6EO7zusJJOamQ==",
+      "path": "skiasharp/2.88.0",
+      "hashPath": "skiasharp.2.88.0.nupkg.sha512"
+    },
+    "SkiaSharp.NativeAssets.Tizen/2.88.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kFxZupdsFEa27Q/A1/OyMsvsvQ4FVcM/blyRsAIxy/jWKAIRhhGGb5rq6E6E9qopWswE54KCpIV9LrVF/HvUtA==",
+      "path": "skiasharp.nativeassets.tizen/2.88.0",
+      "hashPath": "skiasharp.nativeassets.tizen.2.88.0.nupkg.sha512"
+    },
+    "SkiaSharp.Views/2.88.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Mu/jQwvRb2LSROcBFH2UPmIAsw7Nijmwa6sBkx3fJ2wLi4c696XGCAmT8qi15LzO2AdSjiQiWjoLe8jNcDTaDQ==",
+      "path": "skiasharp.views/2.88.0",
+      "hashPath": "skiasharp.views.2.88.0.nupkg.sha512"
+    },
+    "System.Diagnostics.DiagnosticSource/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-frQDfv0rl209cKm1lnwTgFPzNigy2EKk1BS3uAvHvlBVKe5cymGyHO+Sj+NLv5VF/AhHsqPIUUwya5oV4CHMUw==",
+      "path": "system.diagnostics.diagnosticsource/6.0.0",
+      "hashPath": "system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512"
+    },
+    "System.IO.Pipelines/6.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ryTgF+iFkpGZY1vRQhfCzX0xTdlV3pyaTTqRu2ETbEv+HlV7O6y7hyQURnghNIXvctl5DuZ//Dpks6HdL/Txgw==",
+      "path": "system.io.pipelines/6.0.3",
+      "hashPath": "system.io.pipelines.6.0.3.nupkg.sha512"
+    },
+    "System.Memory/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
+      "path": "system.memory/4.5.3",
+      "hashPath": "system.memory.4.5.3.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Vg8eB5Tawm1IFqj4TVK1czJX89rhFxJo9ELqc/Eiq0eXy13RK00eubyU6TJE6y+GQXjyV5gSfiewDUZjQgSE0w==",
+      "path": "system.text.encodings.web/6.0.0",
+      "hashPath": "system.text.encodings.web.6.0.0.nupkg.sha512"
+    },
+    "System.Text.Json/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zaJsHfESQvJ11vbXnNlkrR46IaMULk/gHxYsJphzSF+07kTjPHv+Oc14w6QEOfo3Q4hqLJgStUaYB9DBl0TmWg==",
+      "path": "system.text.json/6.0.0",
+      "hashPath": "system.text.json.6.0.0.nupkg.sha512"
+    },
+    "Tizen.UIExtensions.ElmSharp/0.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NDNMw84/g3w3BMIMQSJLdlC+DvA0qjBtFN8OJFJkzizV022PiZrcRbTE+X4B6Ai1WeYt5E3Ks+Ar3OvpEc4kUg==",
+      "path": "tizen.uiextensions.elmsharp/0.8.1",
+      "hashPath": "tizen.uiextensions.elmsharp.0.8.1.nupkg.sha512"
+    },
+    "A_A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "A_B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "A_C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "D_A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "D_A_A_A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "D_A_A_B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "E_A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "E_B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "E_C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "E_D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  },
+  "runtimes": {
+    "tizen-x86": [
+      "tizen",
+      "linux-x86",
+      "linux",
+      "unix-x86",
+      "unix",
+      "any",
+      "base"
+    ],
+    "tizen.4.0.0-x86": [
+      "tizen.4.0.0",
+      "tizen-x86",
+      "tizen",
+      "linux-x86",
+      "linux",
+      "unix-x86",
+      "unix",
+      "any",
+      "base"
+    ],
+    "tizen.5.0.0-x86": [
+      "tizen.5.0.0",
+      "tizen.4.0.0-x86",
+      "tizen.4.0.0",
+      "tizen-x86",
+      "tizen",
+      "linux-x86",
+      "linux",
+      "unix-x86",
+      "unix",
+      "any",
+      "base"
+    ],
+    "tizen.5.5.0-x86": [
+      "tizen.5.5.0",
+      "tizen.5.0.0-x86",
+      "tizen.5.0.0",
+      "tizen.4.0.0-x86",
+      "tizen.4.0.0",
+      "tizen-x86",
+      "tizen",
+      "linux-x86",
+      "linux",
+      "unix-x86",
+      "unix",
+      "any",
+      "base"
+    ],
+    "tizen.6.0.0-x86": [
+      "tizen.6.0.0",
+      "tizen.5.5.0-x86",
+      "tizen.5.5.0",
+      "tizen.5.0.0-x86",
+      "tizen.5.0.0",
+      "tizen.4.0.0-x86",
+      "tizen.4.0.0",
+      "tizen-x86",
+      "tizen",
+      "linux-x86",
+      "linux",
+      "unix-x86",
+      "unix",
+      "any",
+      "base"
+    ]
+  }
+}

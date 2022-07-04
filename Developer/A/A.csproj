@@ -3,6 +3,7 @@
 	<PropertyGroup>
 		<TargetFrameworks>net6.0-android;net6.0-ios;net6.0-maccatalyst</TargetFrameworks>
 		<TargetFrameworks Condition="$([MSBuild]::IsOSPlatform('windows'))">$(TargetFrameworks);net6.0-windows10.0.19041.0</TargetFrameworks>
+		<!-- Uncomment to also build the tizen app. You will need to install tizen by following this: https://github.com/Samsung/Tizen.NET -->
 		<TargetFrameworks>$(TargetFrameworks);net6.0-tizen</TargetFrameworks>
 		<OutputType>Exe</OutputType>
 		<RootNamespace>A</RootNamespace>
@@ -16,7 +17,7 @@
 
 		<!-- App Identifier -->
 		<ApplicationId>social.object.app</ApplicationId>
-		<ApplicationIdGuid>FAFE194D-E415-4BD8-B6A4-FBFB7999778C</ApplicationIdGuid>
+		<ApplicationIdGuid>E5A649CE-2726-4784-8B77-6A0A7991768A</ApplicationIdGuid>
 
 		<!-- Versions -->
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
@@ -78,7 +79,18 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <ProjectReference Include="..\R\R.csproj" />
+	  <ProjectReference Include="..\A_A\A_A.csproj" />
+	  <ProjectReference Include="..\A_B\A_B.csproj" />
+	  <ProjectReference Include="..\A_C\A_C.csproj" />
+	  <ProjectReference Include="..\D_A\D_A.csproj" />
+	  <ProjectReference Include="..\D_A_A_A\D_A_A_A.csproj" />
+	  <ProjectReference Include="..\D_A_A_B\D_A_A_B.csproj" />
+	  <ProjectReference Include="..\E_B\E_B.csproj" />
+	  <ProjectReference Include="..\E_C\E_C.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Resources\" />
 	</ItemGroup>
 
 </Project>

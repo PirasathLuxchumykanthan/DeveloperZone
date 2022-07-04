@@ -1,0 +1,1 @@
+﻿export function Operator(obj) {window.addEventListener("online", () => obj.invokeMethod("Network", 1)); window.addEventListener("offline", () => obj.invokeMethod("Network", 0));}

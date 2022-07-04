@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "NQao1PQNECK8ow2B6GGDF3/CnNTojZYumr0ibgNfNzI=",
+  "Source": "C_B",
+  "BasePath": "_content/C_B",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "C_B\\wwwroot",
+      "Source": "C_B",
+      "ContentRoot": "D:\\OS\\Developer\\C_B\\wwwroot\\",
+      "BasePath": "_content/C_B",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\OS\\Developer\\C_B\\wwwroot\\Operator.js",
+      "SourceId": "C_B",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\OS\\Developer\\C_B\\wwwroot\\",
+      "BasePath": "_content/C_B",
+      "RelativePath": "Operator.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Operator.js"
+    }
+  ]
+}

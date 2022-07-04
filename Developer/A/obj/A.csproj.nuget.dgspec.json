@@ -38,40 +38,145 @@
           "net6.0-android31.0": {
             "targetAlias": "net6.0-android",
             "projectReferences": {
-              "D:\\OS\\Developer\\R\\R.csproj": {
-                "projectPath": "D:\\OS\\Developer\\R\\R.csproj"
+              "D:\\OS\\Developer\\A_A\\A_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_A\\A_A.csproj"
+              },
+              "D:\\OS\\Developer\\A_B\\A_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_B\\A_B.csproj"
+              },
+              "D:\\OS\\Developer\\A_C\\A_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_C\\A_C.csproj"
+              },
+              "D:\\OS\\Developer\\D_A\\D_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\D_A\\D_A.csproj"
+              },
+              "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj"
+              },
+              "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj"
+              },
+              "D:\\OS\\Developer\\E_B\\E_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_B\\E_B.csproj"
+              },
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
               }
             }
           },
           "net6.0-ios15.4": {
             "targetAlias": "net6.0-ios",
             "projectReferences": {
-              "D:\\OS\\Developer\\R\\R.csproj": {
-                "projectPath": "D:\\OS\\Developer\\R\\R.csproj"
+              "D:\\OS\\Developer\\A_A\\A_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_A\\A_A.csproj"
+              },
+              "D:\\OS\\Developer\\A_B\\A_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_B\\A_B.csproj"
+              },
+              "D:\\OS\\Developer\\A_C\\A_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_C\\A_C.csproj"
+              },
+              "D:\\OS\\Developer\\D_A\\D_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\D_A\\D_A.csproj"
+              },
+              "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj"
+              },
+              "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj"
+              },
+              "D:\\OS\\Developer\\E_B\\E_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_B\\E_B.csproj"
+              },
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
               }
             }
           },
           "net6.0-maccatalyst15.4": {
             "targetAlias": "net6.0-maccatalyst",
             "projectReferences": {
-              "D:\\OS\\Developer\\R\\R.csproj": {
-                "projectPath": "D:\\OS\\Developer\\R\\R.csproj"
+              "D:\\OS\\Developer\\A_A\\A_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_A\\A_A.csproj"
+              },
+              "D:\\OS\\Developer\\A_B\\A_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_B\\A_B.csproj"
+              },
+              "D:\\OS\\Developer\\A_C\\A_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_C\\A_C.csproj"
+              },
+              "D:\\OS\\Developer\\D_A\\D_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\D_A\\D_A.csproj"
+              },
+              "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj"
+              },
+              "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj"
+              },
+              "D:\\OS\\Developer\\E_B\\E_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_B\\E_B.csproj"
+              },
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
               }
             }
           },
           "net6.0-tizen7.0": {
             "targetAlias": "net6.0-tizen",
             "projectReferences": {
-              "D:\\OS\\Developer\\R\\R.csproj": {
-                "projectPath": "D:\\OS\\Developer\\R\\R.csproj"
+              "D:\\OS\\Developer\\A_A\\A_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_A\\A_A.csproj"
+              },
+              "D:\\OS\\Developer\\A_B\\A_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_B\\A_B.csproj"
+              },
+              "D:\\OS\\Developer\\A_C\\A_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_C\\A_C.csproj"
+              },
+              "D:\\OS\\Developer\\D_A\\D_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\D_A\\D_A.csproj"
+              },
+              "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj"
+              },
+              "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj"
+              },
+              "D:\\OS\\Developer\\E_B\\E_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_B\\E_B.csproj"
+              },
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
               }
             }
           },
           "net6.0-windows10.0.19041": {
             "targetAlias": "net6.0-windows10.0.19041.0",
             "projectReferences": {
-              "D:\\OS\\Developer\\R\\R.csproj": {
-                "projectPath": "D:\\OS\\Developer\\R\\R.csproj"
+              "D:\\OS\\Developer\\A_A\\A_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_A\\A_A.csproj"
+              },
+              "D:\\OS\\Developer\\A_B\\A_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_B\\A_B.csproj"
+              },
+              "D:\\OS\\Developer\\A_C\\A_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_C\\A_C.csproj"
+              },
+              "D:\\OS\\Developer\\D_A\\D_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\D_A\\D_A.csproj"
+              },
+              "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj"
+              },
+              "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj"
+              },
+              "D:\\OS\\Developer\\E_B\\E_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_B\\E_B.csproj"
+              },
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
               }
             }
           }
@@ -405,14 +510,1404 @@
         }
       }
     },
-    "D:\\OS\\Developer\\C\\C.csproj": {
+    "D:\\OS\\Developer\\A_A\\A_A.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OS\\Developer\\C\\C.csproj",
-        "projectName": "C",
-        "projectPath": "D:\\OS\\Developer\\C\\C.csproj",
+        "projectUniqueName": "D:\\OS\\Developer\\A_A\\A_A.csproj",
+        "projectName": "A_A",
+        "projectPath": "D:\\OS\\Developer\\A_A\\A_A.csproj",
         "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
-        "outputPath": "D:\\OS\\Developer\\C\\obj\\",
+        "outputPath": "D:\\OS\\Developer\\A_A\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0",
+          "net6.0-android",
+          "net6.0-ios",
+          "net6.0-maccatalyst",
+          "net6.0-tizen",
+          "net6.0-windows10.0.19041.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_A\\E_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
+              }
+            }
+          },
+          "net6.0-android31.0": {
+            "targetAlias": "net6.0-android",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_A\\E_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
+              }
+            }
+          },
+          "net6.0-ios15.4": {
+            "targetAlias": "net6.0-ios",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_A\\E_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
+              }
+            }
+          },
+          "net6.0-maccatalyst15.4": {
+            "targetAlias": "net6.0-maccatalyst",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_A\\E_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
+              }
+            }
+          },
+          "net6.0-tizen7.0": {
+            "targetAlias": "net6.0-tizen",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_A\\E_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
+              }
+            }
+          },
+          "net6.0-windows10.0.19041": {
+            "targetAlias": "net6.0-windows10.0.19041.0",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_A\\E_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Maui.Dependencies": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        },
+        "net6.0-android31.0": {
+          "targetAlias": "net6.0-android",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Maui.Dependencies": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.Android": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        },
+        "net6.0-ios15.4": {
+          "targetAlias": "net6.0-ios",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Maui.Dependencies": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "System.Runtime.InteropServices.NFloat.Internal": {
+              "target": "Package",
+              "version": "[6.0.1, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.iOS": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        },
+        "net6.0-maccatalyst15.4": {
+          "targetAlias": "net6.0-maccatalyst",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Maui.Dependencies": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "System.Runtime.InteropServices.NFloat.Internal": {
+              "target": "Package",
+              "version": "[6.0.1, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "xamarinios10",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.MacCatalyst": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        },
+        "net6.0-tizen7.0": {
+          "targetAlias": "net6.0-tizen",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Maui.Dependencies": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Samsung.Tizen": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        },
+        "net6.0-windows10.0.19041": {
+          "targetAlias": "net6.0-windows10.0.19041.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Maui.Dependencies": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Windows.SDK.BuildTools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.22000.194, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.19041.25, 10.0.19041.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "tizen-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\OS\\Developer\\A_B\\A_B.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OS\\Developer\\A_B\\A_B.csproj",
+        "projectName": "A_B",
+        "projectPath": "D:\\OS\\Developer\\A_B\\A_B.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\A_B\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0",
+          "net6.0-android",
+          "net6.0-ios",
+          "net6.0-maccatalyst",
+          "net6.0-tizen",
+          "net6.0-windows10.0.19041.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
+              }
+            }
+          },
+          "net6.0-android31.0": {
+            "targetAlias": "net6.0-android",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
+              }
+            }
+          },
+          "net6.0-ios15.4": {
+            "targetAlias": "net6.0-ios",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
+              }
+            }
+          },
+          "net6.0-maccatalyst15.4": {
+            "targetAlias": "net6.0-maccatalyst",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
+              }
+            }
+          },
+          "net6.0-tizen7.0": {
+            "targetAlias": "net6.0-tizen",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
+              }
+            }
+          },
+          "net6.0-windows10.0.19041": {
+            "targetAlias": "net6.0-windows10.0.19041.0",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Maui.Dependencies": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        },
+        "net6.0-android31.0": {
+          "targetAlias": "net6.0-android",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Maui.Dependencies": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.Android": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        },
+        "net6.0-ios15.4": {
+          "targetAlias": "net6.0-ios",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Maui.Dependencies": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "System.Runtime.InteropServices.NFloat.Internal": {
+              "target": "Package",
+              "version": "[6.0.1, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.iOS": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        },
+        "net6.0-maccatalyst15.4": {
+          "targetAlias": "net6.0-maccatalyst",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Maui.Dependencies": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "System.Runtime.InteropServices.NFloat.Internal": {
+              "target": "Package",
+              "version": "[6.0.1, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "xamarinios10",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.MacCatalyst": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        },
+        "net6.0-tizen7.0": {
+          "targetAlias": "net6.0-tizen",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Maui.Dependencies": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Samsung.Tizen": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        },
+        "net6.0-windows10.0.19041": {
+          "targetAlias": "net6.0-windows10.0.19041.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Maui.Dependencies": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Windows.SDK.BuildTools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.22000.194, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.19041.25, 10.0.19041.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "tizen-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\OS\\Developer\\A_C\\A_C.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OS\\Developer\\A_C\\A_C.csproj",
+        "projectName": "A_C",
+        "projectPath": "D:\\OS\\Developer\\A_C\\A_C.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\A_C\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0",
+          "net6.0-android",
+          "net6.0-ios",
+          "net6.0-maccatalyst",
+          "net6.0-tizen",
+          "net6.0-windows10.0.19041.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_D\\E_D.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj"
+              }
+            }
+          },
+          "net6.0-android31.0": {
+            "targetAlias": "net6.0-android",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_D\\E_D.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj"
+              }
+            }
+          },
+          "net6.0-ios15.4": {
+            "targetAlias": "net6.0-ios",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_D\\E_D.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj"
+              }
+            }
+          },
+          "net6.0-maccatalyst15.4": {
+            "targetAlias": "net6.0-maccatalyst",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_D\\E_D.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj"
+              }
+            }
+          },
+          "net6.0-tizen7.0": {
+            "targetAlias": "net6.0-tizen",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_D\\E_D.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj"
+              }
+            }
+          },
+          "net6.0-windows10.0.19041": {
+            "targetAlias": "net6.0-windows10.0.19041.0",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_D\\E_D.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Maui.Dependencies": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        },
+        "net6.0-android31.0": {
+          "targetAlias": "net6.0-android",
+          "dependencies": {
+            "Microsoft.Maui.Dependencies": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.Android": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        },
+        "net6.0-ios15.4": {
+          "targetAlias": "net6.0-ios",
+          "dependencies": {
+            "Microsoft.Maui.Dependencies": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "System.Runtime.InteropServices.NFloat.Internal": {
+              "target": "Package",
+              "version": "[6.0.1, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.iOS": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        },
+        "net6.0-maccatalyst15.4": {
+          "targetAlias": "net6.0-maccatalyst",
+          "dependencies": {
+            "Microsoft.Maui.Dependencies": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "System.Runtime.InteropServices.NFloat.Internal": {
+              "target": "Package",
+              "version": "[6.0.1, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "xamarinios10",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.MacCatalyst": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        },
+        "net6.0-tizen7.0": {
+          "targetAlias": "net6.0-tizen",
+          "dependencies": {
+            "Microsoft.Maui.Dependencies": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Samsung.Tizen": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        },
+        "net6.0-windows10.0.19041": {
+          "targetAlias": "net6.0-windows10.0.19041.0",
+          "dependencies": {
+            "Microsoft.Maui.Dependencies": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Extensions": {
+              "target": "Package",
+              "version": "[6.0.400, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Windows.SDK.BuildTools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.22000.194, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.19041.25, 10.0.19041.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "tizen-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\OS\\Developer\\D_A\\D_A.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OS\\Developer\\D_A\\D_A.csproj",
+        "projectName": "D_A",
+        "projectPath": "D:\\OS\\Developer\\D_A\\D_A.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\D_A\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj",
+        "projectName": "D_A_A_A",
+        "projectPath": "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\D_A_A_A\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj",
+        "projectName": "D_A_A_B",
+        "projectPath": "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\D_A_A_B\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
+              },
+              "D:\\OS\\Developer\\E_D\\E_D.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.Web": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OS\\Developer\\E_A\\E_A.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OS\\Developer\\E_A\\E_A.csproj",
+        "projectName": "E_A",
+        "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\E_A\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -465,14 +1960,14 @@
         }
       }
     },
-    "D:\\OS\\Developer\\R\\R.csproj": {
+    "D:\\OS\\Developer\\E_B\\E_B.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OS\\Developer\\R\\R.csproj",
-        "projectName": "R",
-        "projectPath": "D:\\OS\\Developer\\R\\R.csproj",
+        "projectUniqueName": "D:\\OS\\Developer\\E_B\\E_B.csproj",
+        "projectName": "E_B",
+        "projectPath": "D:\\OS\\Developer\\E_B\\E_B.csproj",
         "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
-        "outputPath": "D:\\OS\\Developer\\R\\obj\\",
+        "outputPath": "D:\\OS\\Developer\\E_B\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -494,8 +1989,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\OS\\Developer\\C\\C.csproj": {
-                "projectPath": "D:\\OS\\Developer\\C\\C.csproj"
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
               }
             }
           }
@@ -510,11 +2005,137 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Components.Web": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[6.0.5, )"
+              "version": "[6.0.0, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OS\\Developer\\E_C\\E_C.csproj",
+        "projectName": "E_C",
+        "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\E_C\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OS\\Developer\\E_D\\E_D.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OS\\Developer\\E_D\\E_D.csproj",
+        "projectName": "E_D",
+        "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\E_D\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",

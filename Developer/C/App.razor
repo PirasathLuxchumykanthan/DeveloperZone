@@ -1,0 +1,24 @@
+﻿<PageTitle>OBJECT:SOCIAL</PageTitle>
+<Router AppAssembly="@typeof(App).Assembly">
+    <Found Context="routeData">
+        <RouteView RouteData="@routeData" DefaultLayout="@typeof(D_A.Component)" />
+    </Found>
+    <NotFound>
+        <LayoutView Layout="@typeof(D_A.Component)">
+           <D_A_A_A.Component/>
+        </LayoutView>
+    </NotFound>
+</Router>
+@code{
+    private E_B.task.Service Service => Tasks.Get(this.GetType());
+    protected override void OnInitialized()
+    {
+        Service.Start(E_B.task.service.Status.Install);
+        base.OnInitialized();
+    }
+    protected override void OnAfterRender(bool firstRender)
+    {
+        Service.Stop(E_B.task.service.Status.Install);
+        base.OnAfterRender(firstRender);
+    }
+}

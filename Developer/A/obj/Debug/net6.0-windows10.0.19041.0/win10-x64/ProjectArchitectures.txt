@@ -1,0 +1,4 @@
+D:\OS\Developer\A\A.csproj;x64
+D:\OS\Developer\A_A\A_A.csproj;neutral
+D:\OS\Developer\A_B\A_B.csproj;neutral
+D:\OS\Developer\A_C\A_C.csproj;neutral

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" xmlns:rescap="http://schemas.microsoft.com/appx/manifest/foundation/windows10/restrictedcapabilities" IgnorableNamespaces="uap rescap">
-  <Identity Name="2E57E056-E455-4DC7-9F68-32B9425996D4" Publisher="CN=User Name" Version="1.0.0.1" />
+  <Identity Name="E5A649CE-2726-4784-8B77-6A0A7991768A" Publisher="CN=User Name" Version="1.0.0.1" />
   <Properties>
     <DisplayName>A</DisplayName>
     <PublisherDisplayName>User Name</PublisherDisplayName>
