@@ -4,7 +4,7 @@ using E_B;
 using E_C;
 using A_B;
 using A_A;
-using A_C;
+using A_D;
 namespace A
 {
     public static class MauiProgram
@@ -17,7 +17,8 @@ namespace A
             builder.Services.NetworkOperator();
             builder.Services.NetworkManager();
             builder.Services.TaskManager();
-            builder.Services.FileManager();
+            builder.Services.EntranceManager();
+
             builder.Services.AddMauiBlazorWebView();
 
 

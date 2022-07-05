@@ -44,8 +44,8 @@
               "D:\\OS\\Developer\\A_B\\A_B.csproj": {
                 "projectPath": "D:\\OS\\Developer\\A_B\\A_B.csproj"
               },
-              "D:\\OS\\Developer\\A_C\\A_C.csproj": {
-                "projectPath": "D:\\OS\\Developer\\A_C\\A_C.csproj"
+              "D:\\OS\\Developer\\A_D\\A_D.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_D\\A_D.csproj"
               },
               "D:\\OS\\Developer\\D_A\\D_A.csproj": {
                 "projectPath": "D:\\OS\\Developer\\D_A\\D_A.csproj"
@@ -73,8 +73,8 @@
               "D:\\OS\\Developer\\A_B\\A_B.csproj": {
                 "projectPath": "D:\\OS\\Developer\\A_B\\A_B.csproj"
               },
-              "D:\\OS\\Developer\\A_C\\A_C.csproj": {
-                "projectPath": "D:\\OS\\Developer\\A_C\\A_C.csproj"
+              "D:\\OS\\Developer\\A_D\\A_D.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_D\\A_D.csproj"
               },
               "D:\\OS\\Developer\\D_A\\D_A.csproj": {
                 "projectPath": "D:\\OS\\Developer\\D_A\\D_A.csproj"
@@ -102,8 +102,8 @@
               "D:\\OS\\Developer\\A_B\\A_B.csproj": {
                 "projectPath": "D:\\OS\\Developer\\A_B\\A_B.csproj"
               },
-              "D:\\OS\\Developer\\A_C\\A_C.csproj": {
-                "projectPath": "D:\\OS\\Developer\\A_C\\A_C.csproj"
+              "D:\\OS\\Developer\\A_D\\A_D.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_D\\A_D.csproj"
               },
               "D:\\OS\\Developer\\D_A\\D_A.csproj": {
                 "projectPath": "D:\\OS\\Developer\\D_A\\D_A.csproj"
@@ -131,8 +131,8 @@
               "D:\\OS\\Developer\\A_B\\A_B.csproj": {
                 "projectPath": "D:\\OS\\Developer\\A_B\\A_B.csproj"
               },
-              "D:\\OS\\Developer\\A_C\\A_C.csproj": {
-                "projectPath": "D:\\OS\\Developer\\A_C\\A_C.csproj"
+              "D:\\OS\\Developer\\A_D\\A_D.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_D\\A_D.csproj"
               },
               "D:\\OS\\Developer\\D_A\\D_A.csproj": {
                 "projectPath": "D:\\OS\\Developer\\D_A\\D_A.csproj"
@@ -160,8 +160,8 @@
               "D:\\OS\\Developer\\A_B\\A_B.csproj": {
                 "projectPath": "D:\\OS\\Developer\\A_B\\A_B.csproj"
               },
-              "D:\\OS\\Developer\\A_C\\A_C.csproj": {
-                "projectPath": "D:\\OS\\Developer\\A_C\\A_C.csproj"
+              "D:\\OS\\Developer\\A_D\\A_D.csproj": {
+                "projectPath": "D:\\OS\\Developer\\A_D\\A_D.csproj"
               },
               "D:\\OS\\Developer\\D_A\\D_A.csproj": {
                 "projectPath": "D:\\OS\\Developer\\D_A\\D_A.csproj"
@@ -1316,14 +1316,14 @@
         }
       }
     },
-    "D:\\OS\\Developer\\A_C\\A_C.csproj": {
+    "D:\\OS\\Developer\\A_D\\A_D.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OS\\Developer\\A_C\\A_C.csproj",
-        "projectName": "A_C",
-        "projectPath": "D:\\OS\\Developer\\A_C\\A_C.csproj",
+        "projectUniqueName": "D:\\OS\\Developer\\A_D\\A_D.csproj",
+        "projectName": "A_D",
+        "projectPath": "D:\\OS\\Developer\\A_D\\A_D.csproj",
         "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
-        "outputPath": "D:\\OS\\Developer\\A_C\\obj\\",
+        "outputPath": "D:\\OS\\Developer\\A_D\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
@@ -1351,48 +1351,48 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\OS\\Developer\\E_D\\E_D.csproj": {
-                "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj"
+              "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj"
               }
             }
           },
           "net6.0-android31.0": {
             "targetAlias": "net6.0-android",
             "projectReferences": {
-              "D:\\OS\\Developer\\E_D\\E_D.csproj": {
-                "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj"
+              "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj"
               }
             }
           },
           "net6.0-ios15.4": {
             "targetAlias": "net6.0-ios",
             "projectReferences": {
-              "D:\\OS\\Developer\\E_D\\E_D.csproj": {
-                "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj"
+              "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj"
               }
             }
           },
           "net6.0-maccatalyst15.4": {
             "targetAlias": "net6.0-maccatalyst",
             "projectReferences": {
-              "D:\\OS\\Developer\\E_D\\E_D.csproj": {
-                "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj"
+              "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj"
               }
             }
           },
           "net6.0-tizen7.0": {
             "targetAlias": "net6.0-tizen",
             "projectReferences": {
-              "D:\\OS\\Developer\\E_D\\E_D.csproj": {
-                "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj"
+              "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj"
               }
             }
           },
           "net6.0-windows10.0.19041": {
             "targetAlias": "net6.0-windows10.0.19041.0",
             "projectReferences": {
-              "D:\\OS\\Developer\\E_D\\E_D.csproj": {
-                "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj"
+              "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj"
               }
             }
           }
@@ -1407,6 +1407,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
               "version": "[6.0.400, )",
@@ -1448,6 +1456,14 @@
         "net6.0-android31.0": {
           "targetAlias": "net6.0-android",
           "dependencies": {
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
               "version": "[6.0.400, )",
@@ -1492,6 +1508,14 @@
         "net6.0-ios15.4": {
           "targetAlias": "net6.0-ios",
           "dependencies": {
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
               "version": "[6.0.400, )",
@@ -1541,6 +1565,14 @@
         "net6.0-maccatalyst15.4": {
           "targetAlias": "net6.0-maccatalyst",
           "dependencies": {
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
               "version": "[6.0.400, )",
@@ -1591,6 +1623,14 @@
         "net6.0-tizen7.0": {
           "targetAlias": "net6.0-tizen",
           "dependencies": {
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
               "version": "[6.0.400, )",
@@ -1635,6 +1675,14 @@
         "net6.0-windows10.0.19041": {
           "targetAlias": "net6.0-windows10.0.19041.0",
           "dependencies": {
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
             "Microsoft.Maui.Dependencies": {
               "target": "Package",
               "version": "[6.0.400, )",
@@ -1856,11 +1904,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "D:\\OS\\Developer\\E_A\\E_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
+              },
               "D:\\OS\\Developer\\E_C\\E_C.csproj": {
                 "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
-              },
-              "D:\\OS\\Developer\\E_D\\E_D.csproj": {
-                "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj"
               }
             }
           }
@@ -2096,14 +2144,14 @@
         }
       }
     },
-    "D:\\OS\\Developer\\E_D\\E_D.csproj": {
+    "D:\\OS\\Developer\\E_E\\E_E.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OS\\Developer\\E_D\\E_D.csproj",
-        "projectName": "E_D",
-        "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj",
+        "projectUniqueName": "D:\\OS\\Developer\\E_E\\E_E.csproj",
+        "projectName": "E_E",
+        "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj",
         "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
-        "outputPath": "D:\\OS\\Developer\\E_D\\obj\\",
+        "outputPath": "D:\\OS\\Developer\\E_E\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2124,7 +2172,14 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_A\\E_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
+              },
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -2136,6 +2191,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -517,8 +517,8 @@
       },
       "D_A_A_B/1.0.0": {
         "dependencies": {
+          "E_A": "1.0.0",
           "E_C": "1.0.0",
-          "E_D": "1.0.0",
           "Microsoft.AspNetCore.Components.Web": "6.0.5"
         },
         "runtime": {

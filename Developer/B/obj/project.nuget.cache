@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "q+zLkP2eZH7vAfXIqbuL6mC9lSBhnLn1lBn+r8H/L5wLl+bhmSx7MhTMIM/dmDCZCXqfOqK8UGskHAFJAxsfHA==",
+  "dgSpecHash": "LoAFJFfoNT88HqmOQD8qM46KSmxgHwskIVBnlN7RLER6S4YTpxs9DX017XWWrOIYJGsfSlzm8andw3nPFunkZw==",
   "success": true,
   "projectFilePath": "D:\\OS\\Developer\\B\\B.csproj",
   "expectedPackageFiles": [
@@ -12,10 +12,14 @@
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.5\\microsoft.aspnetcore.components.webassembly.6.0.5.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.server\\6.0.5\\microsoft.aspnetcore.components.webassembly.server.6.0.5.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.6\\microsoft.aspnetcore.connections.abstractions.6.0.6.nupkg.sha512",
+    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\6.0.6\\microsoft.aspnetcore.http.connections.client.6.0.6.nupkg.sha512",
+    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\6.0.6\\microsoft.aspnetcore.http.connections.common.6.0.6.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.5\\microsoft.aspnetcore.metadata.6.0.5.nupkg.sha512",
+    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\6.0.6\\microsoft.aspnetcore.signalr.client.6.0.6.nupkg.sha512",
+    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\6.0.6\\microsoft.aspnetcore.signalr.client.core.6.0.6.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\6.0.6\\microsoft.aspnetcore.signalr.common.6.0.6.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.signalr.core\\1.1.0\\microsoft.aspnetcore.signalr.core.1.1.0.nupkg.sha512",
-    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\1.1.0\\microsoft.aspnetcore.signalr.protocols.json.1.1.0.nupkg.sha512",
+    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\6.0.6\\microsoft.aspnetcore.signalr.protocols.json.6.0.6.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
@@ -35,7 +39,6 @@
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.5\\microsoft.jsinterop.webassembly.6.0.5.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
@@ -48,7 +51,7 @@
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.threading.channels\\4.5.0\\system.threading.channels.4.5.0.nupkg.sha512",
+    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
     "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
   ],
   "logs": []

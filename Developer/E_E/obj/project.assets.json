@@ -239,6 +239,16 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+      "E_A/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/E_A.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/E_A.dll": {}
+        }
+      },
       "E_C/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -684,6 +694,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "E_A/1.0.0": {
+      "type": "project",
+      "path": "../E_A/E_A.csproj",
+      "msbuildProject": "../E_A/E_A.csproj"
+    },
     "E_C/1.0.0": {
       "type": "project",
       "path": "../E_C/E_C.csproj",
@@ -692,6 +707,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "E_A >= 1.0.0",
       "E_C >= 1.0.0",
       "Microsoft.AspNetCore.SignalR.Client >= 6.0.6"
     ]
@@ -729,6 +745,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "D:\\OS\\Developer\\E_A\\E_A.csproj": {
+              "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
+            },
             "D:\\OS\\Developer\\E_C\\E_C.csproj": {
               "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
             }

@@ -39,8 +39,8 @@
               "D:\\OS\\Developer\\C_B\\C_B.csproj": {
                 "projectPath": "D:\\OS\\Developer\\C_B\\C_B.csproj"
               },
-              "D:\\OS\\Developer\\C_C\\C_C.csproj": {
-                "projectPath": "D:\\OS\\Developer\\C_C\\C_C.csproj"
+              "D:\\OS\\Developer\\C_D\\C_D.csproj": {
+                "projectPath": "D:\\OS\\Developer\\C_D\\C_D.csproj"
               },
               "D:\\OS\\Developer\\D_A\\D_A.csproj": {
                 "projectPath": "D:\\OS\\Developer\\D_A\\D_A.csproj"
@@ -255,14 +255,14 @@
         }
       }
     },
-    "D:\\OS\\Developer\\C_C\\C_C.csproj": {
+    "D:\\OS\\Developer\\C_D\\C_D.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OS\\Developer\\C_C\\C_C.csproj",
-        "projectName": "C_C",
-        "projectPath": "D:\\OS\\Developer\\C_C\\C_C.csproj",
+        "projectUniqueName": "D:\\OS\\Developer\\C_D\\C_D.csproj",
+        "projectName": "C_D",
+        "projectPath": "D:\\OS\\Developer\\C_D\\C_D.csproj",
         "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
-        "outputPath": "D:\\OS\\Developer\\C_C\\obj\\",
+        "outputPath": "D:\\OS\\Developer\\C_D\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -284,8 +284,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\OS\\Developer\\E_D\\E_D.csproj": {
-                "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj"
+              "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj"
               }
             }
           }
@@ -303,6 +303,10 @@
             "Microsoft.AspNetCore.Components.Web": {
               "target": "Package",
               "version": "[6.0.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -486,11 +490,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "D:\\OS\\Developer\\E_A\\E_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
+              },
               "D:\\OS\\Developer\\E_C\\E_C.csproj": {
                 "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
-              },
-              "D:\\OS\\Developer\\E_D\\E_D.csproj": {
-                "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj"
               }
             }
           }
@@ -726,14 +730,14 @@
         }
       }
     },
-    "D:\\OS\\Developer\\E_D\\E_D.csproj": {
+    "D:\\OS\\Developer\\E_E\\E_E.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OS\\Developer\\E_D\\E_D.csproj",
-        "projectName": "E_D",
-        "projectPath": "D:\\OS\\Developer\\E_D\\E_D.csproj",
+        "projectUniqueName": "D:\\OS\\Developer\\E_E\\E_E.csproj",
+        "projectName": "E_E",
+        "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj",
         "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
-        "outputPath": "D:\\OS\\Developer\\E_D\\obj\\",
+        "outputPath": "D:\\OS\\Developer\\E_E\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -754,7 +758,14 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_A\\E_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
+              },
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -766,6 +777,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

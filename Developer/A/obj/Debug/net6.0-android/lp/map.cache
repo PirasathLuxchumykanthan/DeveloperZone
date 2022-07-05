@@ -1,3 +1,6 @@
+A_A.dll
+A_B.dll
+A_C.dll
 GoogleGson.dll
 Microsoft.AspNetCore.Components.WebView.Maui.dll
 Microsoft.Maui.Controls.Compatibility.dll
@@ -156,6 +159,4 @@ maui.aar
 Microsoft.Maui.aar
 Microsoft.Maui.Essentials.aar
 Xamarin.Google.Crypto.Tink.Android.aar
-A_B.dll
-A_A.dll
-A_C.dll
+A_D.dll

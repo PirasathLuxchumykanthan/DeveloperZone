@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
+﻿<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -14,7 +14,7 @@
   <ItemGroup>
     <ProjectReference Include="..\C_A\C_A.csproj" />
     <ProjectReference Include="..\C_B\C_B.csproj" />
-    <ProjectReference Include="..\C_C\C_C.csproj" />
+    <ProjectReference Include="..\C_D\C_D.csproj" />
     <ProjectReference Include="..\D_A\D_A.csproj" />
     <ProjectReference Include="..\D_A_A_A\D_A_A_A.csproj" />
     <ProjectReference Include="..\D_A_A_B\D_A_A_B.csproj" />
