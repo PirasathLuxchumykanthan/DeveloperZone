@@ -16,3 +16,10 @@ D:\OS\Developer\D_A\obj\Debug\net6.0\D_A.dll
 D:\OS\Developer\D_A\obj\Debug\net6.0\refint\D_A.dll
 D:\OS\Developer\D_A\obj\Debug\net6.0\D_A.pdb
 D:\OS\Developer\D_A\obj\Debug\net6.0\ref\D_A.dll
+D:\OS\Developer\D_A\bin\Debug\net6.0\E_A.dll
+D:\OS\Developer\D_A\bin\Debug\net6.0\E_C.dll
+D:\OS\Developer\D_A\bin\Debug\net6.0\E_E.dll
+D:\OS\Developer\D_A\bin\Debug\net6.0\E_E.pdb
+D:\OS\Developer\D_A\bin\Debug\net6.0\E_A.pdb
+D:\OS\Developer\D_A\bin\Debug\net6.0\E_C.pdb
+D:\OS\Developer\D_A\obj\Debug\net6.0\D_A.csproj.CopyComplete

@@ -6,7 +6,8 @@ class Operator : E_C.OperatorManager, IDisposable
 {
     private DotNetObjectReference<Operator>? ObjectReference { get; set; }
     private IJSObjectReference? JSObjectReference { get; set; }
-    public Operator(IJSRuntime JSRuntime) : base(Status.Online) => JSRuntime.InvokeAsync<IJSObjectReference>("import", $"/_content/C_B/Operator.js").AsTask().ContinueWith(a =>(JSObjectReference = a.Result).InvokeVoidAsync("Operator", ObjectReference = DotNetObjectReference.Create(this)));
+    public Operator(IJSRuntime JSRuntime) : base(Status.Online) => JSRuntime.InvokeAsync<IJSObjectReference>("import", $"/_content/C_B/Operator.js").AsTask().ContinueWith(a =>(JSObjectReference = a.Result).InvokeVoidAsync("Operator", 
+        ObjectReference = DotNetObjectReference.Create(this)));
     [JSInvokable]
     public override void Network(Status Status) => base.Network(Status);
 

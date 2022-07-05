@@ -11,7 +11,7 @@ namespace E_E
         private readonly E_A.Unit Unit;
         public EntranceManager(E_C.Network Network,E_A.Unit Unit) {
             this.Unit = Unit;
-            this.OnSaveHeaderKey();
+   
         }
         private HubConnection? _Hub;
 
@@ -20,7 +20,9 @@ namespace E_E
             x.Headers.Add("Unit.TwoLetterISOLanguageName", Unit.TwoLetterISOLanguageName);
             x.Headers.Add("Unit.LocalTimezoneId", Unit.LocalTimezoneId);
             x.Headers.Add("Unit.LocalUTCMinutesAddOn", Unit.LocalUTCMinutesAddOn.ToString());
-            this.SetHeaderKey(x.Headers);
+            var Key = this.GetKey();
+            if (Key != null) { }
+          
            
         }).Build();
 
@@ -29,7 +31,7 @@ namespace E_E
             throw new NotImplementedException();
         }
 
-        public virtual void SetHeaderKey(IDictionary<string, string> Headers)
+        public virtual Task<entrance.Data?> GetKey()
         {
             throw new NotImplementedException();
         }

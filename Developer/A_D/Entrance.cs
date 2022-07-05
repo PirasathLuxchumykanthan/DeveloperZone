@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.SignalR.Client;
+using E_E.entrance;
+
 namespace A_D
 {
     class Entrance : E_E.EntranceManager
@@ -20,16 +22,17 @@ namespace A_D
                 await SecureStorage.Default.SetAsync("Unit.Key.security", s);
             });
         }
-        public override async void SetHeaderKey(IDictionary<string, string> Headers)
+        public override async Task<Data?> GetKey()
         {
             await SecureStorage.Default.GetAsync("Unit.Key").ContinueWith(x => {
-                if (x.IsCompleted)
-                    Headers.Add("Unit.Key", x.Result);
+
+
             });
             await SecureStorage.Default.GetAsync("Unit.Key.security").ContinueWith(x => {
-                if (x.IsCompleted)
-                    Headers.Add("Unit.Key", x.Result);
+
             });
+
+            return new Data();
         }
     }
 }

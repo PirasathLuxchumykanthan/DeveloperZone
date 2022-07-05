@@ -719,6 +719,7 @@
         "dependencies": {
           "E_E": "1.0.0",
           "Microsoft.AspNetCore.Components.Web": "6.0.5",
+          "Microsoft.AspNetCore.SignalR.Client": "6.0.6",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
         },
         "compile": {
@@ -732,6 +733,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "E_E": "1.0.0",
           "Microsoft.AspNetCore.Components.Web": "6.0.5"
         },
         "compile": {

@@ -304,6 +304,10 @@
               "target": "Package",
               "version": "[6.0.5, )"
             },
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[6.0.0, )"
@@ -357,7 +361,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

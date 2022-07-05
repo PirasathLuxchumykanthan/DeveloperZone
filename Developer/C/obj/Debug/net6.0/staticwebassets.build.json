@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lKY5FzSHybP1NCyfvFB4gR6qT7GOse+XLTuUWECudoE=",
+  "Hash": "fYVC9f2y06w5nm8rw0yY7GxK+riLgI43DopT3Umj7YI=",
   "Source": "C",
   "BasePath": "/",
   "Mode": "Root",
@@ -29,9 +29,9 @@
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
     },
     {
-      "Identity": "D:\\OS\\Developer\\C_C\\C_C.csproj",
+      "Identity": "D:\\OS\\Developer\\C_D\\C_D.csproj",
       "Version": 2,
-      "Source": "C_C",
+      "Source": "C_D",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
       "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
@@ -86,6 +86,13 @@
       "Source": "C_B",
       "ContentRoot": "D:\\OS\\Developer\\C_B\\wwwroot\\",
       "BasePath": "_content/C_B",
+      "Pattern": "**"
+    },
+    {
+      "Name": "C_D\\wwwroot",
+      "Source": "C_D",
+      "ContentRoot": "D:\\OS\\Developer\\C_D\\wwwroot\\",
+      "BasePath": "_content/C_D",
       "Pattern": "**"
     },
     {
@@ -248,12 +255,12 @@
       "OriginalItemSpec": "D:\\OS\\Developer\\C_B\\bin\\Debug\\net6.0\\C_B.pdb"
     },
     {
-      "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_C.dll",
+      "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_D.dll",
       "SourceId": "C",
       "SourceType": "Computed",
       "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/C_C.dll",
+      "RelativePath": "_framework/C_D.dll",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -262,15 +269,15 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\OS\\Developer\\C_C\\bin\\Debug\\net6.0\\C_C.dll"
+      "OriginalItemSpec": "D:\\OS\\Developer\\C_D\\bin\\Debug\\net6.0\\C_D.dll"
     },
     {
-      "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_C.pdb",
+      "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_D.pdb",
       "SourceId": "C",
       "SourceType": "Computed",
       "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/C_C.pdb",
+      "RelativePath": "_framework/C_D.pdb",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -279,7 +286,7 @@
       "AssetTraitValue": "symbol",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\OS\\Developer\\C_C\\bin\\Debug\\net6.0\\C_C.pdb"
+      "OriginalItemSpec": "D:\\OS\\Developer\\C_D\\bin\\Debug\\net6.0\\C_D.pdb"
     },
     {
       "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\D_A.dll",
@@ -537,12 +544,12 @@
       "OriginalItemSpec": "D:\\OS\\Developer\\E_C\\bin\\Debug\\net6.0\\E_C.pdb"
     },
     {
-      "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\E_D.dll",
+      "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\E_E.dll",
       "SourceId": "C",
       "SourceType": "Computed",
       "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/E_D.dll",
+      "RelativePath": "_framework/E_E.dll",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -551,15 +558,15 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\OS\\Developer\\E_D\\bin\\Debug\\net6.0\\E_D.dll"
+      "OriginalItemSpec": "D:\\OS\\Developer\\E_E\\bin\\Debug\\net6.0\\E_E.dll"
     },
     {
-      "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\E_D.pdb",
+      "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\E_E.pdb",
       "SourceId": "C",
       "SourceType": "Computed",
       "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/E_D.pdb",
+      "RelativePath": "_framework/E_E.pdb",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -568,7 +575,7 @@
       "AssetTraitValue": "symbol",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\OS\\Developer\\E_D\\bin\\Debug\\net6.0\\E_D.pdb"
+      "OriginalItemSpec": "D:\\OS\\Developer\\E_E\\bin\\Debug\\net6.0\\E_E.pdb"
     },
     {
       "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
@@ -724,6 +731,57 @@
       "OriginalItemSpec": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
+      "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Connections.Abstractions.dll",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Connections.Abstractions.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.6\\lib\\net6.0\\Microsoft.AspNetCore.Connections.Abstractions.dll"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Connections.Client.dll",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Connections.Client.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\6.0.6\\lib\\net6.0\\Microsoft.AspNetCore.Http.Connections.Client.dll"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Connections.Common.dll",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Connections.Common.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\6.0.6\\lib\\net6.0\\Microsoft.AspNetCore.Http.Connections.Common.dll"
+    },
+    {
       "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
       "SourceId": "C",
       "SourceType": "Computed",
@@ -739,6 +797,74 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.5\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Client.Core.dll",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Client.Core.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\6.0.6\\lib\\net6.0\\Microsoft.AspNetCore.SignalR.Client.Core.dll"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Client.dll",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Client.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\6.0.6\\lib\\net6.0\\Microsoft.AspNetCore.SignalR.Client.dll"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Common.dll",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Common.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\6.0.6\\lib\\net6.0\\Microsoft.AspNetCore.SignalR.Common.dll"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\6.0.6\\lib\\net6.0\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll"
     },
     {
       "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -875,6 +1001,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.dll"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Features.dll",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Features.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.extensions.features\\6.0.6\\lib\\net6.0\\Microsoft.Extensions.Features.dll"
     },
     {
       "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.dll",
@@ -3886,21 +4029,38 @@
       "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ServiceProcess.dll"
     },
     {
-      "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\+ssop9mZ.gz",
+      "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\+h0Q+Hi5.gz",
       "SourceId": "C",
       "SourceType": "Computed",
       "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/E_D.pdb.gz",
+      "RelativePath": "_framework/E_E.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\E_D.pdb",
+      "RelatedAsset": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\E_E.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\E_D.pdb"
+      "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\E_E.dll"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\+tqT37R0.gz",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/C_D.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_D.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_D.pdb"
     },
     {
       "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\+VnwIJ3F.gz",
@@ -4020,6 +4180,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Compression.dll"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\1ObgVP+G.gz",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/C_D.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_D.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_D.dll"
     },
     {
       "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\1QAcDs0f.gz",
@@ -4498,23 +4675,6 @@
       "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebClient.dll"
     },
     {
-      "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\7oS+4knG.gz",
-      "SourceId": "C",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/C_C.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_C.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_C.dll"
-    },
-    {
       "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\7SX2qcuh.gz",
       "SourceId": "C",
       "SourceType": "Computed",
@@ -4804,6 +4964,40 @@
       "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_A.pdb"
     },
     {
+      "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\AztFy6id.gz",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Connections.Common.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Connections.Common.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Connections.Common.dll"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\b0Rcatkq.gz",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Connections.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Connections.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Connections.Abstractions.dll"
+    },
+    {
       "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\BBO2VcX6.gz",
       "SourceId": "C",
       "SourceType": "Computed",
@@ -4819,6 +5013,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Memory.dll"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\bccNMV8X.gz",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Protocols.Json.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Protocols.Json.dll"
     },
     {
       "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\BD+FNGL+.gz",
@@ -5246,6 +5457,23 @@
       "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.CoreLib.dll"
     },
     {
+      "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\eKfShFji.gz",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Connections.Client.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Connections.Client.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Http.Connections.Client.dll"
+    },
+    {
       "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\evriM1vS.gz",
       "SourceId": "C",
       "SourceType": "Computed",
@@ -5499,23 +5727,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XmlDocument.dll"
-    },
-    {
-      "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\HODVhkaY.gz",
-      "SourceId": "C",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/C_C.pdb.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_C.pdb",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_C.pdb"
     },
     {
       "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\hQ6K2rDW.gz",
@@ -5943,23 +6154,6 @@
       "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileSystemGlobbing.dll"
     },
     {
-      "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\LHRmGjsm.gz",
-      "SourceId": "C",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/E_D.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\E_D.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\E_D.dll"
-    },
-    {
       "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\LJFqOLdE.gz",
       "SourceId": "C",
       "SourceType": "Computed",
@@ -6113,6 +6307,23 @@
       "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\E_B.pdb"
     },
     {
+      "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\Mts3O9gP.gz",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Client.Core.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Client.Core.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Client.Core.dll"
+    },
+    {
       "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\mvfxp7Gq.gz",
       "SourceId": "C",
       "SourceType": "Computed",
@@ -6264,6 +6475,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Core.dll"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\OanBADUG.gz",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/E_E.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\E_E.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\E_E.pdb"
     },
     {
       "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\OgiqlhKp.gz",
@@ -6963,6 +7191,23 @@
       "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XPath.dll"
     },
     {
+      "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\SV5E+G9w.gz",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Common.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Common.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Common.dll"
+    },
+    {
       "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\tBc5XCML.gz",
       "SourceId": "C",
       "SourceType": "Computed",
@@ -7082,6 +7327,23 @@
       "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.NonGeneric.dll"
     },
     {
+      "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\tyr8IoHo.gz",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Features.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Features.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Features.dll"
+    },
+    {
       "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\u3pe7CAI.gz",
       "SourceId": "C",
       "SourceType": "Computed",
@@ -7131,6 +7393,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Private.Uri.dll"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\um8FvHNf.gz",
+      "SourceId": "C",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Client.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Client.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.SignalR.Client.dll"
     },
     {
       "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\Uuwq4Ppj.gz",
@@ -7794,6 +8073,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Operator.js"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\C_D\\wwwroot\\Entrance.js",
+      "SourceId": "C_D",
+      "SourceType": "Project",
+      "ContentRoot": "D:\\OS\\Developer\\C_D\\wwwroot\\",
+      "BasePath": "_content/C_D",
+      "RelativePath": "Entrance.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Entrance.js"
     },
     {
       "Identity": "D:\\OS\\Developer\\D_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A.bundle.scp.css",

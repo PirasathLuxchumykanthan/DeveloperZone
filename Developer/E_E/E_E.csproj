@@ -15,4 +15,8 @@
     <ProjectReference Include="..\E_C\E_C.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="entrance\" />
+  </ItemGroup>
+
 </Project>

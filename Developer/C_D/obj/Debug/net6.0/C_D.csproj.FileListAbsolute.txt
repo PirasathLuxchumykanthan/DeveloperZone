@@ -13,3 +13,11 @@ D:\OS\Developer\C_D\obj\Debug\net6.0\C_D.dll
 D:\OS\Developer\C_D\obj\Debug\net6.0\refint\C_D.dll
 D:\OS\Developer\C_D\obj\Debug\net6.0\C_D.pdb
 D:\OS\Developer\C_D\obj\Debug\net6.0\ref\C_D.dll
+D:\OS\Developer\C_D\bin\Debug\net6.0\C_D.staticwebassets.runtime.json
+D:\OS\Developer\C_D\bin\Debug\net6.0\E_A.dll
+D:\OS\Developer\C_D\bin\Debug\net6.0\E_C.dll
+D:\OS\Developer\C_D\bin\Debug\net6.0\E_E.dll
+D:\OS\Developer\C_D\bin\Debug\net6.0\E_E.pdb
+D:\OS\Developer\C_D\bin\Debug\net6.0\E_A.pdb
+D:\OS\Developer\C_D\bin\Debug\net6.0\E_C.pdb
+D:\OS\Developer\C_D\obj\Debug\net6.0\C_D.csproj.CopyComplete

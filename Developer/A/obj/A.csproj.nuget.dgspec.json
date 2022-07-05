@@ -1771,7 +1771,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
