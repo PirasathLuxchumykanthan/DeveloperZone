@@ -18,3 +18,9 @@ D:\OS\Developer\A_A\obj\Debug\net6.0-tizen\tizen-x86\A_A.dll
 D:\OS\Developer\A_A\obj\Debug\net6.0-tizen\tizen-x86\refint\A_A.dll
 D:\OS\Developer\A_A\obj\Debug\net6.0-tizen\tizen-x86\A_A.pdb
 D:\OS\Developer\A_A\obj\Debug\net6.0-tizen\tizen-x86\ref\A_A.dll
+D:\OS\Developer\A_A\bin\Debug\net6.0-tizen\tizen-x86\E_B.dll
+D:\OS\Developer\A_A\bin\Debug\net6.0-tizen\tizen-x86\E_C.dll
+D:\OS\Developer\A_A\bin\Debug\net6.0-tizen\tizen-x86\E_E.dll
+D:\OS\Developer\A_A\bin\Debug\net6.0-tizen\tizen-x86\E_E.pdb
+D:\OS\Developer\A_A\bin\Debug\net6.0-tizen\tizen-x86\E_B.pdb
+D:\OS\Developer\A_A\bin\Debug\net6.0-tizen\tizen-x86\E_C.pdb

@@ -13,3 +13,9 @@ D:\OS\Developer\A_A\obj\Debug\net6.0\A_A.dll
 D:\OS\Developer\A_A\obj\Debug\net6.0\refint\A_A.dll
 D:\OS\Developer\A_A\obj\Debug\net6.0\A_A.pdb
 D:\OS\Developer\A_A\obj\Debug\net6.0\ref\A_A.dll
+D:\OS\Developer\A_A\bin\Debug\net6.0\E_B.dll
+D:\OS\Developer\A_A\bin\Debug\net6.0\E_C.dll
+D:\OS\Developer\A_A\bin\Debug\net6.0\E_E.dll
+D:\OS\Developer\A_A\bin\Debug\net6.0\E_E.pdb
+D:\OS\Developer\A_A\bin\Debug\net6.0\E_B.pdb
+D:\OS\Developer\A_A\bin\Debug\net6.0\E_C.pdb

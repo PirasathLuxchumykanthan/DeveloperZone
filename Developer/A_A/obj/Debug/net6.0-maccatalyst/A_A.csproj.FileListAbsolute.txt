@@ -20,3 +20,9 @@ D:\OS\Developer\A_A\obj\Debug\net6.0-maccatalyst\A_A.dll
 D:\OS\Developer\A_A\obj\Debug\net6.0-maccatalyst\refint\A_A.dll
 D:\OS\Developer\A_A\obj\Debug\net6.0-maccatalyst\A_A.pdb
 D:\OS\Developer\A_A\obj\Debug\net6.0-maccatalyst\ref\A_A.dll
+D:\OS\Developer\A_A\bin\Debug\net6.0-maccatalyst\E_B.dll
+D:\OS\Developer\A_A\bin\Debug\net6.0-maccatalyst\E_C.dll
+D:\OS\Developer\A_A\bin\Debug\net6.0-maccatalyst\E_E.dll
+D:\OS\Developer\A_A\bin\Debug\net6.0-maccatalyst\E_E.pdb
+D:\OS\Developer\A_A\bin\Debug\net6.0-maccatalyst\E_B.pdb
+D:\OS\Developer\A_A\bin\Debug\net6.0-maccatalyst\E_C.pdb

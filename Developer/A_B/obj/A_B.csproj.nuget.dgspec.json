@@ -27,7 +27,6 @@
           "net6.0-android",
           "net6.0-ios",
           "net6.0-maccatalyst",
-          "net6.0-tizen",
           "net6.0-windows10.0.19041.0"
         ],
         "sources": {
@@ -62,14 +61,6 @@
           },
           "net6.0-maccatalyst15.4": {
             "targetAlias": "net6.0-maccatalyst",
-            "projectReferences": {
-              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
-                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
-              }
-            }
-          },
-          "net6.0-tizen7.0": {
-            "targetAlias": "net6.0-tizen",
             "projectReferences": {
               "D:\\OS\\Developer\\E_C\\E_C.csproj": {
                 "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
@@ -292,54 +283,6 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
         },
-        "net6.0-tizen7.0": {
-          "targetAlias": "net6.0-tizen",
-          "dependencies": {
-            "Microsoft.Extensions.DependencyInjection.Abstractions": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "Microsoft.Maui.Dependencies": {
-              "target": "Package",
-              "version": "[6.0.400, )",
-              "autoReferenced": true
-            },
-            "Microsoft.Maui.Extensions": {
-              "target": "Package",
-              "version": "[6.0.400, )",
-              "autoReferenced": true
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.Maui.Controls": {
-              "privateAssets": "all"
-            },
-            "Microsoft.Maui.Core": {
-              "privateAssets": "all"
-            },
-            "Microsoft.Maui.Essentials": {
-              "privateAssets": "all"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            },
-            "Samsung.Tizen": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
-        },
         "net6.0-windows10.0.19041": {
           "targetAlias": "net6.0-windows10.0.19041.0",
           "dependencies": {
@@ -399,11 +342,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "tizen-x86": {
-          "#import": []
         }
       }
     },

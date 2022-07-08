@@ -78,3 +78,9 @@ D:\OS\Developer\A_A\obj\Debug\net6.0-android\uploadflags.txt
 D:\OS\Developer\A_A\obj\Debug\net6.0-android\stamp\_CleanIntermediateIfNeeded.stamp
 D:\OS\Developer\A_A\obj\Debug\net6.0-android\stamp\_ConvertResourcesCases.stamp
 D:\OS\Developer\A_A\obj\Debug\net6.0-android\stamp\_ResolveLibraryProjectImports.stamp
+D:\OS\Developer\A_A\bin\Debug\net6.0-android\E_B.dll
+D:\OS\Developer\A_A\bin\Debug\net6.0-android\E_C.dll
+D:\OS\Developer\A_A\bin\Debug\net6.0-android\E_E.dll
+D:\OS\Developer\A_A\bin\Debug\net6.0-android\E_E.pdb
+D:\OS\Developer\A_A\bin\Debug\net6.0-android\E_B.pdb
+D:\OS\Developer\A_A\bin\Debug\net6.0-android\E_C.pdb

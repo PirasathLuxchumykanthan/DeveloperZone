@@ -47,6 +47,9 @@ namespace E_A
             Guid.TryParse(await Get("E_A.ServerSecurityID"), out _ServerSecurityID);
             if (!Guid.TryParse(await Get("E_A.ClientSecurityKey"), out _ClientSecurityKey))
                 ClientSecurityKey = Guid.NewGuid();
+
+            var a = ClientSecurityKey;
+            var b = a;
             Service.Stop(E_B.task.service.Status.Install);
         }
     }

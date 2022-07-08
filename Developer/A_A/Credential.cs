@@ -17,7 +17,6 @@ namespace A_A
         }
         public override async Task<string> Get(string Key)
         {
-           
             return await SecureStorage.GetAsync(Key);
         }
         public override async Task Set(string Key, string Value)

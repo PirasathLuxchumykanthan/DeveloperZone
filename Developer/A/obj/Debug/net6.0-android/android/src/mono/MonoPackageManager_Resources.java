@@ -126,7 +126,6 @@ public class MonoPackageManager_Resources {
 		"Xamarin.KotlinX.Coroutines.Core.Jvm.dll",
 		"A_A.dll",
 		"A_B.dll",
-		"A_D.dll",
 		"D_A.dll",
 		"D_A_A_A.dll",
 		"D_A_A_B.dll",
