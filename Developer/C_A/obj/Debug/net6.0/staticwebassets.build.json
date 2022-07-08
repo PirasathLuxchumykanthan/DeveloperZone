@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "1eDiHxngtqT6dmIbtT7Z75pMmodUevvwQuXCumR1om8=",
+  "Hash": "Xa40xda/W+Q57Bum3MmdBrPO2rLnf+OrPOd6snTGQUM=",
   "Source": "C_A",
   "BasePath": "_content/C_A",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "C_A\\wwwroot",
+      "Source": "C_A",
+      "ContentRoot": "D:\\OS\\Developer\\C_A\\wwwroot\\",
+      "BasePath": "_content/C_A",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\OS\\Developer\\C_A\\wwwroot\\Credential.js",
+      "SourceId": "C_A",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\OS\\Developer\\C_A\\wwwroot\\",
+      "BasePath": "_content/C_A",
+      "RelativePath": "Credential.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Credential.js"
+    }
+  ]
 }

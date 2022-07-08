@@ -239,14 +239,18 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "E_A/1.0.0": {
+      "E_B/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "E_C": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
+        },
         "compile": {
-          "bin/placeholder/E_A.dll": {}
+          "bin/placeholder/E_B.dll": {}
         },
         "runtime": {
-          "bin/placeholder/E_A.dll": {}
+          "bin/placeholder/E_B.dll": {}
         }
       },
       "E_C/1.0.0": {
@@ -694,10 +698,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "E_A/1.0.0": {
+    "E_B/1.0.0": {
       "type": "project",
-      "path": "../E_A/E_A.csproj",
-      "msbuildProject": "../E_A/E_A.csproj"
+      "path": "../E_B/E_B.csproj",
+      "msbuildProject": "../E_B/E_B.csproj"
     },
     "E_C/1.0.0": {
       "type": "project",
@@ -707,9 +711,10 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "E_A >= 1.0.0",
+      "E_B >= 1.0.0",
       "E_C >= 1.0.0",
-      "Microsoft.AspNetCore.SignalR.Client >= 6.0.6"
+      "Microsoft.AspNetCore.SignalR.Client >= 6.0.6",
+      "Microsoft.Extensions.DependencyInjection >= 6.0.0"
     ]
   },
   "packageFolders": {
@@ -745,8 +750,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\OS\\Developer\\E_A\\E_A.csproj": {
-              "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
+            "D:\\OS\\Developer\\E_B\\E_B.csproj": {
+              "projectPath": "D:\\OS\\Developer\\E_B\\E_B.csproj"
             },
             "D:\\OS\\Developer\\E_C\\E_C.csproj": {
               "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
@@ -767,6 +772,10 @@
           "Microsoft.AspNetCore.SignalR.Client": {
             "target": "Package",
             "version": "[6.0.6, )"
+          },
+          "Microsoft.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[6.0.0, )"
           }
         },
         "imports": [

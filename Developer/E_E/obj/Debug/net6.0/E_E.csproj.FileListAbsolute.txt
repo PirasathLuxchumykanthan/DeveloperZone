@@ -13,5 +13,5 @@ D:\OS\Developer\E_E\obj\Debug\net6.0\ref\E_E.dll
 D:\OS\Developer\E_E\bin\Debug\net6.0\E_C.dll
 D:\OS\Developer\E_E\bin\Debug\net6.0\E_C.pdb
 D:\OS\Developer\E_E\obj\Debug\net6.0\E_E.csproj.CopyComplete
-D:\OS\Developer\E_E\bin\Debug\net6.0\E_A.dll
-D:\OS\Developer\E_E\bin\Debug\net6.0\E_A.pdb
+D:\OS\Developer\E_E\bin\Debug\net6.0\E_B.dll
+D:\OS\Developer\E_E\bin\Debug\net6.0\E_B.pdb

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fYVC9f2y06w5nm8rw0yY7GxK+riLgI43DopT3Umj7YI=",
+  "Hash": "I2dodCsHBuk5mxFQgjVs54E+VNAG3TK5kBYoCX+O59Q=",
   "Source": "C",
   "BasePath": "/",
   "Mode": "Root",
@@ -21,17 +21,6 @@
       "Identity": "D:\\OS\\Developer\\C_B\\C_B.csproj",
       "Version": 2,
       "Source": "C_B",
-      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
-      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
-      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
-    },
-    {
-      "Identity": "D:\\OS\\Developer\\C_D\\C_D.csproj",
-      "Version": 2,
-      "Source": "C_D",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
       "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
@@ -82,17 +71,17 @@
       "Pattern": "**"
     },
     {
+      "Name": "C_A\\wwwroot",
+      "Source": "C_A",
+      "ContentRoot": "D:\\OS\\Developer\\C_A\\wwwroot\\",
+      "BasePath": "_content/C_A",
+      "Pattern": "**"
+    },
+    {
       "Name": "C_B\\wwwroot",
       "Source": "C_B",
       "ContentRoot": "D:\\OS\\Developer\\C_B\\wwwroot\\",
       "BasePath": "_content/C_B",
-      "Pattern": "**"
-    },
-    {
-      "Name": "C_D\\wwwroot",
-      "Source": "C_D",
-      "ContentRoot": "D:\\OS\\Developer\\C_D\\wwwroot\\",
-      "BasePath": "_content/C_D",
       "Pattern": "**"
     },
     {
@@ -253,40 +242,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\OS\\Developer\\C_B\\bin\\Debug\\net6.0\\C_B.pdb"
-    },
-    {
-      "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_D.dll",
-      "SourceId": "C",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/C_D.dll",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "runtime",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\OS\\Developer\\C_D\\bin\\Debug\\net6.0\\C_D.dll"
-    },
-    {
-      "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_D.pdb",
-      "SourceId": "C",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/C_D.pdb",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "symbol",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\OS\\Developer\\C_D\\bin\\Debug\\net6.0\\C_D.pdb"
     },
     {
       "Identity": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\D_A.dll",
@@ -4046,23 +4001,6 @@
       "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\E_E.dll"
     },
     {
-      "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\+tqT37R0.gz",
-      "SourceId": "C",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/C_D.pdb.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_D.pdb",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_D.pdb"
-    },
-    {
       "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\+VnwIJ3F.gz",
       "SourceId": "C",
       "SourceType": "Computed",
@@ -4180,23 +4118,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Compression.dll"
-    },
-    {
-      "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\1ObgVP+G.gz",
-      "SourceId": "C",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/C_D.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_D.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "D:\\OS\\Developer\\C\\bin\\Debug\\net6.0\\wwwroot\\_framework\\C_D.dll"
     },
     {
       "Identity": "D:\\OS\\Developer\\C\\obj\\Debug\\net6.0\\build-gz\\1QAcDs0f.gz",
@@ -8058,6 +7979,23 @@
       "OriginalItemSpec": "wwwroot\\site.webmanifest"
     },
     {
+      "Identity": "D:\\OS\\Developer\\C_A\\wwwroot\\Credential.js",
+      "SourceId": "C_A",
+      "SourceType": "Project",
+      "ContentRoot": "D:\\OS\\Developer\\C_A\\wwwroot\\",
+      "BasePath": "_content/C_A",
+      "RelativePath": "Credential.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Credential.js"
+    },
+    {
       "Identity": "D:\\OS\\Developer\\C_B\\wwwroot\\Operator.js",
       "SourceId": "C_B",
       "SourceType": "Project",
@@ -8073,23 +8011,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Operator.js"
-    },
-    {
-      "Identity": "D:\\OS\\Developer\\C_D\\wwwroot\\Entrance.js",
-      "SourceId": "C_D",
-      "SourceType": "Project",
-      "ContentRoot": "D:\\OS\\Developer\\C_D\\wwwroot\\",
-      "BasePath": "_content/C_D",
-      "RelativePath": "Entrance.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Entrance.js"
     },
     {
       "Identity": "D:\\OS\\Developer\\D_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A.bundle.scp.css",

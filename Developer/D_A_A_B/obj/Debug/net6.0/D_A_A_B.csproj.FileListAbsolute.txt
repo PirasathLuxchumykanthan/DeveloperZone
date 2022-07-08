@@ -21,3 +21,7 @@ D:\OS\Developer\D_A_A_B\bin\Debug\net6.0\E_C.pdb
 D:\OS\Developer\D_A_A_B\obj\Debug\net6.0\D_A_A_B.csproj.CopyComplete
 D:\OS\Developer\D_A_A_B\bin\Debug\net6.0\E_A.dll
 D:\OS\Developer\D_A_A_B\bin\Debug\net6.0\E_A.pdb
+D:\OS\Developer\D_A_A_B\bin\Debug\net6.0\E_B.dll
+D:\OS\Developer\D_A_A_B\bin\Debug\net6.0\E_E.dll
+D:\OS\Developer\D_A_A_B\bin\Debug\net6.0\E_B.pdb
+D:\OS\Developer\D_A_A_B\bin\Debug\net6.0\E_E.pdb

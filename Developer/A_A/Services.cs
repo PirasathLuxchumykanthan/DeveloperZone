@@ -9,6 +9,7 @@ public static class Services
 {
     public static void UnitManager(this IServiceCollection Services)
     {
+        Services.AddScoped<E_A.Credential, Credential>();
         Services.AddScoped<E_A.Unit, Unit>();
     }
 }

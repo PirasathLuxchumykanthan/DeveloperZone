@@ -878,8 +878,6 @@ D:\OS\Developer\C\obj\Debug\net6.0\build-gz\6QbmaMgE.gz
 D:\OS\Developer\C\obj\Debug\net6.0\build-gz\AUiADTGu.gz
 D:\OS\Developer\C\obj\Debug\net6.0\build-gz\OreQaWIu.gz
 D:\OS\Developer\C\obj\Debug\net6.0\build-gz\mnvxo4Qq.gz
-D:\OS\Developer\C\bin\Debug\net6.0\wwwroot\_framework\C_D.dll
-D:\OS\Developer\C\bin\Debug\net6.0\wwwroot\_framework\C_D.pdb
 D:\OS\Developer\C\bin\Debug\net6.0\wwwroot\_framework\E_E.dll
 D:\OS\Developer\C\bin\Debug\net6.0\wwwroot\_framework\E_E.pdb
 D:\OS\Developer\C\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Connections.Abstractions.dll
@@ -891,8 +889,6 @@ D:\OS\Developer\C\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Signa
 D:\OS\Developer\C\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
 D:\OS\Developer\C\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Features.dll
 D:\OS\Developer\C\bin\Debug\net6.0\wwwroot\_framework\E_E.dll.gz
-D:\OS\Developer\C\bin\Debug\net6.0\wwwroot\_framework\C_D.pdb.gz
-D:\OS\Developer\C\bin\Debug\net6.0\wwwroot\_framework\C_D.dll.gz
 D:\OS\Developer\C\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Http.Connections.Common.dll.gz
 D:\OS\Developer\C\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Connections.Abstractions.dll.gz
 D:\OS\Developer\C\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Protocols.Json.dll.gz
@@ -902,7 +898,6 @@ D:\OS\Developer\C\bin\Debug\net6.0\wwwroot\_framework\E_E.pdb.gz
 D:\OS\Developer\C\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Common.dll.gz
 D:\OS\Developer\C\bin\Debug\net6.0\wwwroot\_framework\Microsoft.Extensions.Features.dll.gz
 D:\OS\Developer\C\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.SignalR.Client.dll.gz
-D:\OS\Developer\C\bin\Debug\net6.0\C_D.staticwebassets.runtime.json
 D:\OS\Developer\C\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
 D:\OS\Developer\C\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
 D:\OS\Developer\C\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
@@ -911,9 +906,7 @@ D:\OS\Developer\C\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
 D:\OS\Developer\C\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
 D:\OS\Developer\C\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
 D:\OS\Developer\C\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
-D:\OS\Developer\C\bin\Debug\net6.0\C_D.dll
 D:\OS\Developer\C\bin\Debug\net6.0\E_E.dll
-D:\OS\Developer\C\bin\Debug\net6.0\C_D.pdb
 D:\OS\Developer\C\bin\Debug\net6.0\E_E.pdb
 D:\OS\Developer\C\obj\Debug\net6.0\build-gz\b0Rcatkq.gz
 D:\OS\Developer\C\obj\Debug\net6.0\build-gz\eKfShFji.gz
@@ -923,7 +916,6 @@ D:\OS\Developer\C\obj\Debug\net6.0\build-gz\Mts3O9gP.gz
 D:\OS\Developer\C\obj\Debug\net6.0\build-gz\SV5E+G9w.gz
 D:\OS\Developer\C\obj\Debug\net6.0\build-gz\bccNMV8X.gz
 D:\OS\Developer\C\obj\Debug\net6.0\build-gz\tyr8IoHo.gz
-D:\OS\Developer\C\obj\Debug\net6.0\build-gz\1ObgVP+G.gz
 D:\OS\Developer\C\obj\Debug\net6.0\build-gz\+h0Q+Hi5.gz
-D:\OS\Developer\C\obj\Debug\net6.0\build-gz\+tqT37R0.gz
 D:\OS\Developer\C\obj\Debug\net6.0\build-gz\OanBADUG.gz
+D:\OS\Developer\C\bin\Debug\net6.0\C_A.staticwebassets.runtime.json

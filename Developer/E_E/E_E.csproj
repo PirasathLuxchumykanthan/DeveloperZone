@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -8,15 +8,12 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.SignalR.Client" Version="6.0.6" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\E_A\E_A.csproj" />
+    <ProjectReference Include="..\E_B\E_B.csproj" />
     <ProjectReference Include="..\E_C\E_C.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="entrance\" />
   </ItemGroup>
 
 </Project>

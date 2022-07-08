@@ -20,7 +20,7 @@ namespace E_B.task
         public service.Status Status => ToDos.Any(x => x.Status == service.Status.Install) ? service.Status.Install : ToDos.Any(x => x.Status == service.Status.Download) ? service.Status.Download : service.Status.Done;
         private service.Status _Status = service.Status.Done;
         private Action? _Handler;
-        internal event Action Handler{
+        public event Action Handler{
             add => _Handler += value;
             remove => _Handler -= value;
         }
@@ -30,18 +30,15 @@ namespace E_B.task
             _Handler?.Invoke();
         }
         public void Start(service.Status Status) {
-            if (Status.Equals(service.Status.Done)) return;
             ToDos.Add(new service.ToDo(Status, Guid.Empty));
             this.Check();
         }
         public void Stop(service.Status Status) {
-            if (Status.Equals(service.Status.Done)) return;
             ToDos.RemoveAll(a => a.ID == Guid.Empty&&a.Status==Status);
             this.Check();
         }
         public void Start(service.Status Status,Guid ID)
         {
-            if (Status.Equals(service.Status.Done)) return;
             ToDos.Add(new service.ToDo(Status, ID));
             this.Check();
         }

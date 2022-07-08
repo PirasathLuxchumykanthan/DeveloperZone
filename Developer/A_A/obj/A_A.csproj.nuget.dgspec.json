@@ -41,6 +41,9 @@
             "projectReferences": {
               "D:\\OS\\Developer\\E_A\\E_A.csproj": {
                 "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
+              },
+              "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj"
               }
             }
           },
@@ -49,6 +52,9 @@
             "projectReferences": {
               "D:\\OS\\Developer\\E_A\\E_A.csproj": {
                 "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
+              },
+              "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj"
               }
             }
           },
@@ -57,6 +63,9 @@
             "projectReferences": {
               "D:\\OS\\Developer\\E_A\\E_A.csproj": {
                 "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
+              },
+              "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj"
               }
             }
           },
@@ -65,6 +74,9 @@
             "projectReferences": {
               "D:\\OS\\Developer\\E_A\\E_A.csproj": {
                 "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
+              },
+              "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj"
               }
             }
           },
@@ -73,6 +85,9 @@
             "projectReferences": {
               "D:\\OS\\Developer\\E_A\\E_A.csproj": {
                 "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
+              },
+              "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj"
               }
             }
           },
@@ -81,6 +96,9 @@
             "projectReferences": {
               "D:\\OS\\Developer\\E_A\\E_A.csproj": {
                 "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
+              },
+              "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj"
               }
             }
           }
@@ -435,6 +453,143 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_B\\E_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_B\\E_B.csproj"
+              },
+              "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OS\\Developer\\E_B\\E_B.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OS\\Developer\\E_B\\E_B.csproj",
+        "projectName": "E_B",
+        "projectPath": "D:\\OS\\Developer\\E_B\\E_B.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\E_B\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OS\\Developer\\E_C\\E_C.csproj",
+        "projectName": "E_C",
+        "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\E_C\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -447,6 +602,89 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OS\\Developer\\E_E\\E_E.csproj",
+        "projectName": "E_E",
+        "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\E_E\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\OS\\Developer\\E_B\\E_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_B\\E_B.csproj"
+              },
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.SignalR.Client": {
+              "target": "Package",
+              "version": "[6.0.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -669,7 +669,6 @@
         "dependencies": {
           "C_A": "1.0.0",
           "C_B": "1.0.0",
-          "C_D": "1.0.0",
           "D_A": "1.0.0",
           "D_A_A_A": "1.0.0",
           "D_A_A_B": "1.0.0",
@@ -689,6 +688,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "E_A": "1.0.0",
+          "E_E": "1.0.0",
           "Microsoft.AspNetCore.Components.Web": "6.0.5",
           "Microsoft.Extensions.DependencyInjection": "6.0.0"
         },
@@ -713,27 +713,11 @@
           "bin/placeholder/C_B.dll": {}
         }
       },
-      "C_D/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "E_E": "1.0.0",
-          "Microsoft.AspNetCore.Components.Web": "6.0.5",
-          "Microsoft.AspNetCore.SignalR.Client": "6.0.6",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/C_D.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/C_D.dll": {}
-        }
-      },
       "D_A/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "E_E": "1.0.0",
+          "E_A": "1.0.0",
           "Microsoft.AspNetCore.Components.Web": "6.0.5"
         },
         "compile": {
@@ -774,6 +758,10 @@
       "E_A/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "E_B": "1.0.0",
+          "E_E": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/E_A.dll": {}
         },
@@ -812,9 +800,10 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "E_A": "1.0.0",
+          "E_B": "1.0.0",
           "E_C": "1.0.0",
-          "Microsoft.AspNetCore.SignalR.Client": "6.0.6"
+          "Microsoft.AspNetCore.SignalR.Client": "6.0.6",
+          "Microsoft.Extensions.DependencyInjection": "6.0.0"
         },
         "compile": {
           "bin/placeholder/E_E.dll": {}
@@ -2261,11 +2250,6 @@
       "type": "project",
       "path": "../C_B/C_B.csproj",
       "msbuildProject": "../C_B/C_B.csproj"
-    },
-    "C_D/1.0.0": {
-      "type": "project",
-      "path": "../C_D/C_D.csproj",
-      "msbuildProject": "../C_D/C_D.csproj"
     },
     "D_A/1.0.0": {
       "type": "project",
