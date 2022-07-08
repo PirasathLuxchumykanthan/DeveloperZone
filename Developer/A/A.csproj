@@ -81,12 +81,12 @@
 	<ItemGroup>
 		<ProjectReference Include="..\A_A\A_A.csproj" />
 		<ProjectReference Include="..\A_B\A_B.csproj" />
-		<ProjectReference Include="..\A_D\A_D.csproj" />
 		<ProjectReference Include="..\D_A\D_A.csproj" />
 		<ProjectReference Include="..\D_A_A_A\D_A_A_A.csproj" />
 		<ProjectReference Include="..\D_A_A_B\D_A_A_B.csproj" />
 		<ProjectReference Include="..\E_B\E_B.csproj" />
 		<ProjectReference Include="..\E_C\E_C.csproj" />
+		<ProjectReference Include="..\E_E\E_E.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>
