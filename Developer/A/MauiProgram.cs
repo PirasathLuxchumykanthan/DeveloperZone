@@ -16,8 +16,9 @@ namespace A
             builder.Services.NetworkManager();
             builder.Services.NetworkOperator();
             builder.Services.TaskManager();
-            builder.Services.EntranceManager();
             builder.Services.UnitManager();
+            builder.Services.EntranceManager();
+           
 
 
 
