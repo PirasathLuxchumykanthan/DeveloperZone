@@ -7,7 +7,7 @@ namespace A
     public class AppDelegate : MauiUIApplicationDelegate
     {
         protected override MauiApp CreateMauiApp() => MauiProgram.CreateMauiApp();
-        public AppDelegate() {
+        public AppDelegate() :base(){
 
             SecKeyChain.Add(new SecRecord { Service = "social.object.app.microsoft.maui.essentials.preference" });
         }
