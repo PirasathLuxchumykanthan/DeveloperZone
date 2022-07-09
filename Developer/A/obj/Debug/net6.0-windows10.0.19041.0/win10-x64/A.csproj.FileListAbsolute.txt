@@ -379,7 +379,13 @@ D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\A_A.dll
 D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\E_A.dll
 D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\A_A.pdb
 D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\E_A.pdb
-D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\A_C.dll
-D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\E_D.dll
-D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\A_C.pdb
-D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\E_D.pdb
+D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.SignalR.Client.dll
+D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.SignalR.Common.dll
+D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Features.dll
+D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\E_E.dll
+D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\E_E.pdb

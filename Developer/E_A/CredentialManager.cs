@@ -34,7 +34,7 @@ namespace E_A
             }
         }
 
-        public Guid TestID => ClientSecurityKey;
+        public Guid TestID { get; private set; }
 
         public virtual Task<string?> Get(string Key) {
             throw new Exception();
@@ -59,8 +59,7 @@ namespace E_A
             if (!Guid.TryParse(await Get("E_A.ClientSecurityKey"), out _ClientSecurityKey))
                 ClientSecurityKey = Guid.NewGuid();
 
-            var a = ClientSecurityKey;
-            var b = a;
+            TestID = ClientSecurityKey;
             Service.Stop(E_B.task.service.Status.Install);
         }
     }

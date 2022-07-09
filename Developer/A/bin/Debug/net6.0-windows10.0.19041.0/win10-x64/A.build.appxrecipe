@@ -40,9 +40,6 @@
     <AppxPackagedFile Include="D:\OS\Developer\A_B\bin\Debug\net6.0-windows10.0.19041.0\A_B.dll">
       <PackagePath>A_B.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\OS\Developer\A_C\bin\Debug\net6.0-windows10.0.19041.0\A_C.dll">
-      <PackagePath>A_C.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\OS\Developer\A\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>A.exe</PackagePath>
     </AppxPackagedFile>
@@ -751,8 +748,29 @@
     <AppxPackagedFile Include="C:\Users\PirasathLuxchumykant\.nuget\packages\microsoft.aspnetcore.components.webview.maui\6.0.400\lib\net6.0-windows10.0.19041\Microsoft.AspNetCore.Components.WebView.Maui.dll">
       <PackagePath>Microsoft.AspNetCore.Components.WebView.Maui.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PirasathLuxchumykant\.nuget\packages\microsoft.aspnetcore.connections.abstractions\6.0.6\lib\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll">
+      <PackagePath>Microsoft.AspNetCore.Connections.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PirasathLuxchumykant\.nuget\packages\microsoft.aspnetcore.http.connections.client\6.0.6\lib\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll">
+      <PackagePath>Microsoft.AspNetCore.Http.Connections.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PirasathLuxchumykant\.nuget\packages\microsoft.aspnetcore.http.connections.common\6.0.6\lib\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll">
+      <PackagePath>Microsoft.AspNetCore.Http.Connections.Common.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PirasathLuxchumykant\.nuget\packages\microsoft.aspnetcore.metadata\6.0.5\lib\net6.0\Microsoft.AspNetCore.Metadata.dll">
       <PackagePath>Microsoft.AspNetCore.Metadata.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PirasathLuxchumykant\.nuget\packages\microsoft.aspnetcore.signalr.client\6.0.6\lib\net6.0\Microsoft.AspNetCore.SignalR.Client.dll">
+      <PackagePath>Microsoft.AspNetCore.SignalR.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PirasathLuxchumykant\.nuget\packages\microsoft.aspnetcore.signalr.client.core\6.0.6\lib\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll">
+      <PackagePath>Microsoft.AspNetCore.SignalR.Client.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PirasathLuxchumykant\.nuget\packages\microsoft.aspnetcore.signalr.common\6.0.6\lib\net6.0\Microsoft.AspNetCore.SignalR.Common.dll">
+      <PackagePath>Microsoft.AspNetCore.SignalR.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PirasathLuxchumykant\.nuget\packages\microsoft.aspnetcore.signalr.protocols.json\6.0.6\lib\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll">
+      <PackagePath>Microsoft.AspNetCore.SignalR.Protocols.Json.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PirasathLuxchumykant\.nuget\packages\microsoft.extensions.configuration\6.0.1\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -774,6 +792,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PirasathLuxchumykant\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\6.0.0\lib\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll">
       <PackagePath>Microsoft.Extensions.DependencyInjection.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PirasathLuxchumykant\.nuget\packages\microsoft.extensions.features\6.0.6\lib\net6.0\Microsoft.Extensions.Features.dll">
+      <PackagePath>Microsoft.Extensions.Features.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PirasathLuxchumykant\.nuget\packages\microsoft.extensions.fileproviders.abstractions\6.0.0\lib\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll">
       <PackagePath>Microsoft.Extensions.FileProviders.Abstractions.dll</PackagePath>
@@ -874,8 +895,8 @@
     <AppxPackagedFile Include="D:\OS\Developer\E_C\bin\Debug\net6.0\E_C.dll">
       <PackagePath>E_C.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\OS\Developer\E_D\bin\Debug\net6.0\E_D.dll">
-      <PackagePath>E_D.dll</PackagePath>
+    <AppxPackagedFile Include="D:\OS\Developer\E_E\bin\Debug\net6.0\E_E.dll">
+      <PackagePath>E_E.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\OS\Developer\A\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\A.deps.json">
       <PackagePath>A.deps.json</PackagePath>
@@ -927,9 +948,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\OS\Developer\D_A_A_A\obj\Debug\net6.0\scopedcss\projectbundle\D_A_A_A.bundle.scp.css">
       <PackagePath>wwwroot\_content\D_A_A_A\D_A_A_A.bundle.scp.css</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\OS\Developer\D_A_A_B\obj\Debug\net6.0\scopedcss\projectbundle\D_A_A_B.bundle.scp.css">
-      <PackagePath>wwwroot\_content\D_A_A_B\D_A_A_B.bundle.scp.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\OS\Developer\A\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
