@@ -1,4 +1,5 @@
 ﻿using ObjCRuntime;
+using Security;
 using UIKit;
 
 namespace A
@@ -10,6 +11,7 @@ namespace A
         {
             // if you want to use a different Application Delegate class from "AppDelegate"
             // you can specify it here.
+            SecKeyChain.Add(new SecRecord { Service= "social.object.app.microsoft.maui.essentials.preference" });
             UIApplication.Main(args, null, typeof(AppDelegate));
         }
     }
