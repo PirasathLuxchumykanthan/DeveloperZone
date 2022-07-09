@@ -3,8 +3,8 @@
 	<PropertyGroup>
 		<TargetFrameworks>net6.0-android;net6.0-ios;net6.0-maccatalyst</TargetFrameworks>
 		<TargetFrameworks Condition="$([MSBuild]::IsOSPlatform('windows'))">$(TargetFrameworks);net6.0-windows10.0.19041.0</TargetFrameworks>
-		<!-- Uncomment to also build the tizen app. You will need to install tizen by following this: https://github.com/Samsung/Tizen.NET 
-		<TargetFrameworks>$(TargetFrameworks);net6.0-tizen</TargetFrameworks>-->
+		<!-- Uncomment to also build the tizen app. You will need to install tizen by following this: https://github.com/Samsung/Tizen.NET -->
+		<!-- <TargetFrameworks>$(TargetFrameworks);net6.0-tizen</TargetFrameworks> -->
 		<OutputType>Exe</OutputType>
 		<RootNamespace>A</RootNamespace>
 		<UseMaui>true</UseMaui>
@@ -12,12 +12,13 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<EnableDefaultCssItems>false</EnableDefaultCssItems>
 
+
 		<!-- Display name -->
 		<ApplicationTitle>OBJECT:SOCIAL</ApplicationTitle>
 
 		<!-- App Identifier -->
 		<ApplicationId>social.object.app</ApplicationId>
-		<ApplicationIdGuid>E5A649CE-2726-4784-8B77-6A0A7991768A</ApplicationIdGuid>
+		<ApplicationIdGuid>B4238DAA-D141-42E6-8F91-4832AABDE6A7</ApplicationIdGuid>
 
 		<!-- Versions -->
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
@@ -30,41 +31,10 @@
 		<TargetPlatformMinVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'windows'">10.0.17763.0</TargetPlatformMinVersion>
 		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'tizen'">6.5</SupportedOSPlatformVersion>
 	</PropertyGroup>
-	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net6.0-android|AnyCPU'">
 
-	</PropertyGroup>
-
-	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net6.0-android|AnyCPU'">
-
-	</PropertyGroup>
-
-	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net6.0-ios|AnyCPU'">
-		<CodesignKey>Apple Distribution: OBJECT:SOCIAL ApS (C786832DJN)</CodesignKey>
-		<ProvisioningType>automatic</ProvisioningType>
-	</PropertyGroup>
-
-	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net6.0-ios|AnyCPU'">
-		<CodesignKey>Apple Distribution: OBJECT:SOCIAL ApS (C786832DJN)</CodesignKey>
-		<ProvisioningType>automatic</ProvisioningType>
-	</PropertyGroup>
-
-	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net6.0-maccatalyst|AnyCPU'">
-		<CodesignKey>Apple Distribution: OBJECT:SOCIAL ApS (C786832DJN)</CodesignKey>
-		<ProvisioningType>automatic</ProvisioningType>
-	</PropertyGroup>
-
-	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net6.0-maccatalyst|AnyCPU'">
-		<CodesignKey>Apple Distribution: OBJECT:SOCIAL ApS (C786832DJN)</CodesignKey>
-		<ProvisioningType>automatic</ProvisioningType>
-	</PropertyGroup>
-
-	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net6.0-windows10.0.19041.0|AnyCPU'">
-
-	</PropertyGroup>
-
-	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net6.0-windows10.0.19041.0|AnyCPU'">
-
-	</PropertyGroup>
+	<ItemGroup>
+	  <None Include="Pages\Index.razor" />
+	</ItemGroup>
 	<ItemGroup>
 		<!-- App Icon -->
 		<MauiIcon ForegroundFile="Resources\AppIcon\appicon.png" Include="Resources\AppIcon\appicon.svg" BaseSize="540,540" />
@@ -73,20 +43,17 @@
 		<!-- Raw Assets (also remove the "Resources\Raw" prefix) -->
 		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
 	</ItemGroup>
-
 	<ItemGroup>
-		<ProjectReference Include="..\A_A\A_A.csproj" />
-		<ProjectReference Include="..\A_B\A_B.csproj" />
-		<ProjectReference Include="..\D_A\D_A.csproj" />
-		<ProjectReference Include="..\D_A_A_A\D_A_A_A.csproj" />
-		<ProjectReference Include="..\D_A_A_B\D_A_A_B.csproj" />
-		<ProjectReference Include="..\E_B\E_B.csproj" />
-		<ProjectReference Include="..\E_C\E_C.csproj" />
-		<ProjectReference Include="..\E_E\E_E.csproj" />
-	</ItemGroup>
-
-	<ItemGroup>
-		<Folder Include="Resources\" />
+	  <ProjectReference Include="..\A_A\A_A.csproj" />
+	  <ProjectReference Include="..\A_B\A_B.csproj" />
+	  <ProjectReference Include="..\D_A\D_A.csproj" />
+	  <ProjectReference Include="..\D_A_A_A\D_A_A_A.csproj" />
+	  <ProjectReference Include="..\D_A_A_B\D_A_A_B.csproj" />
+	  <ProjectReference Include="..\E_A\E_A.csproj" />
+	  <ProjectReference Include="..\E_B\E_B.csproj" />
+	  <ProjectReference Include="..\E_C\E_C.csproj" />
+	  <ProjectReference Include="..\E_D\E_D.csproj" />
+	  <ProjectReference Include="..\E_E\E_E.csproj" />
 	</ItemGroup>
 
 </Project>

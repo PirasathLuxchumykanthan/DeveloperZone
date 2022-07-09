@@ -14,8 +14,10 @@
           "D_A": "1.0.0",
           "D_A_A_A": "1.0.0",
           "D_A_A_B": "1.0.0",
+          "E_A": "1.0.0",
           "E_B": "1.0.0",
           "E_C": "1.0.0",
+          "E_D": "1.0.0",
           "E_E": "1.0.0",
           "Microsoft.AspNetCore.Components.WebView.Maui": "6.0.400",
           "Microsoft.Maui.Dependencies": "6.0.400",
@@ -1503,6 +1505,11 @@
           "E_C.dll": {}
         }
       },
+      "E_D/1.0.0": {
+        "runtime": {
+          "E_D.dll": {}
+        }
+      },
       "E_E/1.0.0": {
         "dependencies": {
           "E_B": "1.0.0",
@@ -1905,6 +1912,11 @@
       "sha512": ""
     },
     "E_C/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "E_D/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
