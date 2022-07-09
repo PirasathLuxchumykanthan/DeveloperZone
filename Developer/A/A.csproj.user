@@ -3,9 +3,9 @@
   <PropertyGroup>
     <ActiveDebugFramework>net6.0-ios</ActiveDebugFramework>
     <IsFirstTimeProjectOpen>False</IsFirstTimeProjectOpen>
-    <ActiveDebugProfile>iPad Pro (12.9-inch) (5th generation) iOS 15.5</ActiveDebugProfile>
+    <ActiveDebugProfile>iPhone 13 iOS 15.0</ActiveDebugProfile>
     <SelectedPlatformGroup>Simulator</SelectedPlatformGroup>
-    <DefaultDevice>iPad Pro (12.9-inch) (5th generation) iOS 15.5</DefaultDevice>
+    <DefaultDevice>iPhone 13 iOS 15.0</DefaultDevice>
   </PropertyGroup>
   <PropertyGroup Condition="'$(TargetPlatformIdentifier)'=='iOS'">
     <RuntimeIdentifier>iossimulator-x64</RuntimeIdentifier>
