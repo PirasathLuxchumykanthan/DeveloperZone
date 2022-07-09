@@ -41,25 +41,21 @@
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net6.0-ios|AnyCPU'">
 		<CodesignKey>Apple Distribution: OBJECT:SOCIAL ApS (C786832DJN)</CodesignKey>
 		<ProvisioningType>automatic</ProvisioningType>
-		<CodesignEntitlements>Platforms\iOS\Entitlements.plist</CodesignEntitlements>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net6.0-ios|AnyCPU'">
 		<CodesignKey>Apple Distribution: OBJECT:SOCIAL ApS (C786832DJN)</CodesignKey>
 		<ProvisioningType>automatic</ProvisioningType>
-		<CodesignEntitlements>Platforms\iOS\Entitlements.plist</CodesignEntitlements>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net6.0-maccatalyst|AnyCPU'">
 		<CodesignKey>Apple Distribution: OBJECT:SOCIAL ApS (C786832DJN)</CodesignKey>
 		<ProvisioningType>automatic</ProvisioningType>
-		<CodesignEntitlements>Platforms\MacCatalyst\Entitlements.plist</CodesignEntitlements>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net6.0-maccatalyst|AnyCPU'">
 		<CodesignKey>Apple Distribution: OBJECT:SOCIAL ApS (C786832DJN)</CodesignKey>
 		<ProvisioningType>automatic</ProvisioningType>
-		<CodesignEntitlements>Platforms\MacCatalyst\Entitlements.plist</CodesignEntitlements>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net6.0-windows10.0.19041.0|AnyCPU'">

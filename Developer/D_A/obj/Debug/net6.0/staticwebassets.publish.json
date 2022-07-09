@@ -1,71 +1,11 @@
 {
   "Version": 1,
-  "Hash": "KXdvzG/97YqRtpsFCNvTkRRFZN7cVebTK7QyazGI040=",
+  "Hash": "aupQ5cPVCR9iL3dVPpJ+rcOef68VKEPNd/NWK87hkbk=",
   "Source": "D_A",
   "BasePath": "_content/D_A",
   "Mode": "Default",
   "ManifestType": "Publish",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [
-    {
-      "Name": "D_A\\wwwroot",
-      "Source": "D_A",
-      "ContentRoot": "D:\\OS\\Developer\\D_A\\wwwroot\\",
-      "BasePath": "_content/D_A",
-      "Pattern": "**"
-    }
-  ],
-  "Assets": [
-    {
-      "Identity": "D:\\OS\\Developer\\D_A\\obj\\Debug\\net6.0\\scopedcss\\bundle\\D_A.styles.css",
-      "SourceId": "D_A",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\OS\\Developer\\D_A\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/D_A",
-      "RelativePath": "D_A.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\OS\\Developer\\D_A\\obj\\Debug\\net6.0\\scopedcss\\bundle\\D_A.styles.css"
-    },
-    {
-      "Identity": "D:\\OS\\Developer\\D_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A.bundle.scp.css",
-      "SourceId": "D_A",
-      "SourceType": "Computed",
-      "ContentRoot": "D:\\OS\\Developer\\D_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/D_A",
-      "RelativePath": "D_A.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\OS\\Developer\\D_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A.bundle.scp.css"
-    },
-    {
-      "Identity": "D:\\OS\\Developer\\D_A\\wwwroot\\Static.css",
-      "SourceId": "D_A",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\OS\\Developer\\D_A\\wwwroot\\",
-      "BasePath": "_content/D_A",
-      "RelativePath": "Static.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Static.css"
-    }
-  ]
+  "DiscoveryPatterns": [],
+  "Assets": []
 }
