@@ -2269,51 +2269,58 @@
     ]
   },
   "packageFolders": {
-    "/Users/macm1os/.nuget/packages/": {}
+    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C/C.csproj",
+      "projectUniqueName": "D:\\OS\\Developer\\C\\C.csproj",
       "projectName": "C",
-      "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C/C.csproj",
-      "packagesPath": "/Users/macm1os/.nuget/packages/",
-      "outputPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C/obj/",
+      "projectPath": "D:\\OS\\Developer\\C\\C.csproj",
+      "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+      "outputPath": "D:\\OS\\Developer\\C\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/macm1os/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C_A/C_A.csproj": {
-              "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C_A/C_A.csproj"
+            "D:\\OS\\Developer\\C_A\\C_A.csproj": {
+              "projectPath": "D:\\OS\\Developer\\C_A\\C_A.csproj"
             },
-            "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C_B/C_B.csproj": {
-              "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C_B/C_B.csproj"
+            "D:\\OS\\Developer\\C_B\\C_B.csproj": {
+              "projectPath": "D:\\OS\\Developer\\C_B\\C_B.csproj"
             },
-            "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/D_A.csproj": {
-              "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/D_A.csproj"
+            "D:\\OS\\Developer\\D_A\\D_A.csproj": {
+              "projectPath": "D:\\OS\\Developer\\D_A\\D_A.csproj"
             },
-            "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/D_A_A_A.csproj": {
-              "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/D_A_A_A.csproj"
+            "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj": {
+              "projectPath": "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj"
             },
-            "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_B/D_A_A_B.csproj": {
-              "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_B/D_A_A_B.csproj"
+            "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj": {
+              "projectPath": "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj"
             },
-            "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_B/E_B.csproj": {
-              "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_B/E_B.csproj"
+            "D:\\OS\\Developer\\E_B\\E_B.csproj": {
+              "projectPath": "D:\\OS\\Developer\\E_B\\E_B.csproj"
             },
-            "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_C/E_C.csproj": {
-              "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_C/E_C.csproj"
+            "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+              "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
             }
           }
         }
@@ -2344,16 +2351,23 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+            "version": "[6.0.5, 6.0.5]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "4Mc5SWRwVPlT18hfpGQN1lA4Arrzr9+4/NKx+wRpUcYm4pZ5zFcla+HvU2pGmiV+zgLbk95KwuK0oTxe60uHEA==",
+  "dgSpecHash": "lp9qgOUv13UiC2RT2d8dWkFGfkwVDO7iqCNhjnArx46FU22qmP9e6h5H9LXbnQ1MZI6BSvGx+vYACREAyCToHQ==",
   "success": true,
-  "projectFilePath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_C/E_C.csproj",
+  "projectFilePath": "D:\\OS\\Developer\\E_C\\E_C.csproj",
   "expectedPackageFiles": [
-    "/Users/macm1os/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,52 +1,58 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C/C.csproj": {}
+    "D:\\OS\\Developer\\C\\C.csproj": {}
   },
   "projects": {
-    "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C/C.csproj": {
+    "D:\\OS\\Developer\\C\\C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C/C.csproj",
+        "projectUniqueName": "D:\\OS\\Developer\\C\\C.csproj",
         "projectName": "C",
-        "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C/C.csproj",
-        "packagesPath": "/Users/macm1os/.nuget/packages/",
-        "outputPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C/obj/",
+        "projectPath": "D:\\OS\\Developer\\C\\C.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\C\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/macm1os/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C_A/C_A.csproj": {
-                "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C_A/C_A.csproj"
+              "D:\\OS\\Developer\\C_A\\C_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\C_A\\C_A.csproj"
               },
-              "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C_B/C_B.csproj": {
-                "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C_B/C_B.csproj"
+              "D:\\OS\\Developer\\C_B\\C_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\C_B\\C_B.csproj"
               },
-              "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/D_A.csproj": {
-                "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/D_A.csproj"
+              "D:\\OS\\Developer\\D_A\\D_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\D_A\\D_A.csproj"
               },
-              "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/D_A_A_A.csproj": {
-                "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/D_A_A_A.csproj"
+              "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj"
               },
-              "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_B/D_A_A_B.csproj": {
-                "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_B/D_A_A_B.csproj"
+              "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj"
               },
-              "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_B/E_B.csproj": {
-                "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_B/E_B.csproj"
+              "D:\\OS\\Developer\\E_B\\E_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_B\\E_B.csproj"
               },
-              "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_C/E_C.csproj": {
-                "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_C/E_C.csproj"
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
               }
             }
           }
@@ -77,16 +83,23 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.5, 6.0.5]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -95,34 +108,40 @@
         }
       }
     },
-    "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C_A/C_A.csproj": {
+    "D:\\OS\\Developer\\C_A\\C_A.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C_A/C_A.csproj",
+        "projectUniqueName": "D:\\OS\\Developer\\C_A\\C_A.csproj",
         "projectName": "C_A",
-        "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C_A/C_A.csproj",
-        "packagesPath": "/Users/macm1os/.nuget/packages/",
-        "outputPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C_A/obj/",
+        "projectPath": "D:\\OS\\Developer\\C_A\\C_A.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\C_A\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/macm1os/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_A/E_A.csproj": {
-                "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_A/E_A.csproj"
+              "D:\\OS\\Developer\\E_A\\E_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
               },
-              "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_E/E_E.csproj": {
-                "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_E/E_E.csproj"
+              "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj"
               }
             }
           }
@@ -152,7 +171,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -161,35 +181,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C_B/C_B.csproj": {
+    "D:\\OS\\Developer\\C_B\\C_B.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C_B/C_B.csproj",
+        "projectUniqueName": "D:\\OS\\Developer\\C_B\\C_B.csproj",
         "projectName": "C_B",
-        "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C_B/C_B.csproj",
-        "packagesPath": "/Users/macm1os/.nuget/packages/",
-        "outputPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C_B/obj/",
+        "projectPath": "D:\\OS\\Developer\\C_B\\C_B.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\C_B\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/macm1os/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_C/E_C.csproj": {
-                "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_C/E_C.csproj"
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
               }
             }
           }
@@ -215,7 +241,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -224,35 +251,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/D_A.csproj": {
+    "D:\\OS\\Developer\\D_A\\D_A.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/D_A.csproj",
+        "projectUniqueName": "D:\\OS\\Developer\\D_A\\D_A.csproj",
         "projectName": "D_A",
-        "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/D_A.csproj",
-        "packagesPath": "/Users/macm1os/.nuget/packages/",
-        "outputPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/obj/",
+        "projectPath": "D:\\OS\\Developer\\D_A\\D_A.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\D_A\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/macm1os/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_A/E_A.csproj": {
-                "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_A/E_A.csproj"
+              "D:\\OS\\Developer\\E_A\\E_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
               }
             }
           }
@@ -278,7 +311,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -287,27 +321,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/D_A_A_A.csproj": {
+    "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/D_A_A_A.csproj",
+        "projectUniqueName": "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj",
         "projectName": "D_A_A_A",
-        "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/D_A_A_A.csproj",
-        "packagesPath": "/Users/macm1os/.nuget/packages/",
-        "outputPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/obj/",
+        "projectPath": "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\D_A_A_A\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/macm1os/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -337,7 +377,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -346,38 +387,44 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_B/D_A_A_B.csproj": {
+    "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_B/D_A_A_B.csproj",
+        "projectUniqueName": "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj",
         "projectName": "D_A_A_B",
-        "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_B/D_A_A_B.csproj",
-        "packagesPath": "/Users/macm1os/.nuget/packages/",
-        "outputPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_B/obj/",
+        "projectPath": "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\D_A_A_B\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/macm1os/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_A/E_A.csproj": {
-                "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_A/E_A.csproj"
+              "D:\\OS\\Developer\\E_A\\E_A.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj"
               },
-              "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_C/E_C.csproj": {
-                "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_C/E_C.csproj"
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
               }
             }
           }
@@ -403,7 +450,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -412,38 +460,44 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_A/E_A.csproj": {
+    "D:\\OS\\Developer\\E_A\\E_A.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_A/E_A.csproj",
+        "projectUniqueName": "D:\\OS\\Developer\\E_A\\E_A.csproj",
         "projectName": "E_A",
-        "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_A/E_A.csproj",
-        "packagesPath": "/Users/macm1os/.nuget/packages/",
-        "outputPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_A/obj/",
+        "projectPath": "D:\\OS\\Developer\\E_A\\E_A.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\E_A\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/macm1os/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_B/E_B.csproj": {
-                "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_B/E_B.csproj"
+              "D:\\OS\\Developer\\E_B\\E_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_B\\E_B.csproj"
               },
-              "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_E/E_E.csproj": {
-                "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_E/E_E.csproj"
+              "D:\\OS\\Developer\\E_E\\E_E.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj"
               }
             }
           }
@@ -463,7 +517,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -472,35 +527,41 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_B/E_B.csproj": {
+    "D:\\OS\\Developer\\E_B\\E_B.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_B/E_B.csproj",
+        "projectUniqueName": "D:\\OS\\Developer\\E_B\\E_B.csproj",
         "projectName": "E_B",
-        "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_B/E_B.csproj",
-        "packagesPath": "/Users/macm1os/.nuget/packages/",
-        "outputPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_B/obj/",
+        "projectPath": "D:\\OS\\Developer\\E_B\\E_B.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\E_B\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/macm1os/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_C/E_C.csproj": {
-                "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_C/E_C.csproj"
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
               }
             }
           }
@@ -526,7 +587,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -535,27 +597,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_C/E_C.csproj": {
+    "D:\\OS\\Developer\\E_C\\E_C.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_C/E_C.csproj",
+        "projectUniqueName": "D:\\OS\\Developer\\E_C\\E_C.csproj",
         "projectName": "E_C",
-        "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_C/E_C.csproj",
-        "packagesPath": "/Users/macm1os/.nuget/packages/",
-        "outputPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_C/obj/",
+        "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\E_C\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/macm1os/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -585,7 +653,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -594,38 +663,44 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_E/E_E.csproj": {
+    "D:\\OS\\Developer\\E_E\\E_E.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_E/E_E.csproj",
+        "projectUniqueName": "D:\\OS\\Developer\\E_E\\E_E.csproj",
         "projectName": "E_E",
-        "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_E/E_E.csproj",
-        "packagesPath": "/Users/macm1os/.nuget/packages/",
-        "outputPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_E/obj/",
+        "projectPath": "D:\\OS\\Developer\\E_E\\E_E.csproj",
+        "packagesPath": "C:\\Users\\PirasathLuxchumykant\\.nuget\\packages\\",
+        "outputPath": "D:\\OS\\Developer\\E_E\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/macm1os/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\PirasathLuxchumykant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_B/E_B.csproj": {
-                "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_B/E_B.csproj"
+              "D:\\OS\\Developer\\E_B\\E_B.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_B\\E_B.csproj"
               },
-              "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_C/E_C.csproj": {
-                "projectPath": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/E_C/E_C.csproj"
+              "D:\\OS\\Developer\\E_C\\E_C.csproj": {
+                "projectPath": "D:\\OS\\Developer\\E_C\\E_C.csproj"
               }
             }
           }
@@ -655,7 +730,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -664,7 +740,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400-preview.22301.10\\RuntimeIdentifierGraph.json"
         }
       }
     }

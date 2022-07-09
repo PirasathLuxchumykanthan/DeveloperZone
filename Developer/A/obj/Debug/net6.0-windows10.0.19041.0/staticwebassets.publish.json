@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hIyRzftjtf5NDEPLrPs7HMvdR1kwvYf980HBsSQlBPE=",
+  "Hash": "MraySC3MvOId3rlKRcp2nXQIy0eaYKwPsdge7HghDos=",
   "Source": "A",
   "BasePath": "/",
   "Mode": "Root",
@@ -49,17 +49,10 @@
       "Pattern": "**"
     },
     {
-      "Name": "D_A\\wwwroot",
+      "Name": "D_A/wwwroot",
       "Source": "D_A",
-      "ContentRoot": "D:\\OS\\Developer\\D_A\\wwwroot\\",
+      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/wwwroot/",
       "BasePath": "_content/D_A",
-      "Pattern": "**"
-    },
-    {
-      "Name": "D_A_A_A\\wwwroot",
-      "Source": "D_A_A_A",
-      "ContentRoot": "D:\\OS\\Developer\\D_A_A_A\\wwwroot\\",
-      "BasePath": "_content/D_A_A_A",
       "Pattern": "**"
     }
   ],
@@ -116,10 +109,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\OS\\Developer\\D_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A.bundle.scp.css",
+      "Identity": "D:\\Users\\macm1os\\Desktop\\OS\\DeveloperZone\\Developer\\D_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A.bundle.scp.css",
       "SourceId": "D_A",
       "SourceType": "Project",
-      "ContentRoot": "D:\\OS\\Developer\\D_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Users\\macm1os\\Desktop\\OS\\DeveloperZone\\Developer\\D_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/D_A",
       "RelativePath": "D_A.bundle.scp.css",
       "AssetKind": "All",
@@ -130,13 +123,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\OS\\Developer\\D_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A.bundle.scp.css"
+      "OriginalItemSpec": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/obj/Debug/net6.0/scopedcss/projectbundle/D_A.bundle.scp.css"
     },
     {
-      "Identity": "D:\\OS\\Developer\\D_A\\wwwroot\\Static.css",
+      "Identity": "D:\\Users\\macm1os\\Desktop\\OS\\DeveloperZone\\Developer\\D_A\\wwwroot\\Static.css",
       "SourceId": "D_A",
       "SourceType": "Project",
-      "ContentRoot": "D:\\OS\\Developer\\D_A\\wwwroot\\",
+      "ContentRoot": "D:\\Users\\macm1os\\Desktop\\OS\\DeveloperZone\\Developer\\D_A\\wwwroot\\",
       "BasePath": "_content/D_A",
       "RelativePath": "Static.css",
       "AssetKind": "All",
@@ -147,13 +140,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Static.css"
+      "OriginalItemSpec": "wwwroot/Static.css"
     },
     {
-      "Identity": "D:\\OS\\Developer\\D_A_A_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A_A_A.bundle.scp.css",
+      "Identity": "D:\\Users\\macm1os\\Desktop\\OS\\DeveloperZone\\Developer\\D_A_A_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A_A_A.bundle.scp.css",
       "SourceId": "D_A_A_A",
       "SourceType": "Project",
-      "ContentRoot": "D:\\OS\\Developer\\D_A_A_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Users\\macm1os\\Desktop\\OS\\DeveloperZone\\Developer\\D_A_A_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/D_A_A_A",
       "RelativePath": "D_A_A_A.bundle.scp.css",
       "AssetKind": "All",
@@ -164,7 +157,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\OS\\Developer\\D_A_A_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A_A_A.bundle.scp.css"
+      "OriginalItemSpec": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/obj/Debug/net6.0/scopedcss/projectbundle/D_A_A_A.bundle.scp.css"
     }
   ]
 }
