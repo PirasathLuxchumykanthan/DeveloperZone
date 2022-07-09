@@ -1,20 +1,12 @@
 {
   "Version": 1,
-  "Hash": "T7711CyUG27SrnNxuN0YLabXBJgWlKsG7/0Pb7G0Qvg=",
+  "Hash": "EWeCXBCX+TEmK8C1cwTEQVNgE2JtxdNDrj/wFnjxA1U=",
   "Source": "D_A_A_B",
   "BasePath": "_content/D_A_A_B",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [
-    {
-      "Name": "D_A_A_B\\wwwroot",
-      "Source": "D_A_A_B",
-      "ContentRoot": "D:\\OS\\Developer\\D_A_A_B\\wwwroot\\",
-      "BasePath": "_content/D_A_A_B",
-      "Pattern": "**"
-    }
-  ],
+  "DiscoveryPatterns": [],
   "Assets": [
     {
       "Identity": "D:\\OS\\Developer\\D_A_A_B\\obj\\Debug\\net6.0\\scopedcss\\bundle\\D_A_A_B.styles.css",

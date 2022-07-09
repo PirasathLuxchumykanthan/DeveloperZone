@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8yYRBnLbAFVcUABwGhz0eykmWBEwazn+MpQiOiEdvwM=",
+  "Hash": "ERQBHxKYAbvg1xtT3wv2LY3CwgPS+vBFVC0gx3owM9U=",
   "Source": "A",
   "BasePath": "/",
   "Mode": "Root",
@@ -60,13 +60,6 @@
       "Source": "D_A_A_A",
       "ContentRoot": "D:\\OS\\Developer\\D_A_A_A\\wwwroot\\",
       "BasePath": "_content/D_A_A_A",
-      "Pattern": "**"
-    },
-    {
-      "Name": "D_A_A_B\\wwwroot",
-      "Source": "D_A_A_B",
-      "ContentRoot": "D:\\OS\\Developer\\D_A_A_B\\wwwroot\\",
-      "BasePath": "_content/D_A_A_B",
       "Pattern": "**"
     }
   ],

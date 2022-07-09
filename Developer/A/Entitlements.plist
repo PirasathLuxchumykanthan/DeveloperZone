@@ -6,7 +6,7 @@
 	<string>NSFileProtectionComplete</string>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)$(CFBundleIdentifier)</string>
+		<string>social.object.app.microsoft.maui.essentials.preferences</string>
 	</array>
 </dict>
 </plist>

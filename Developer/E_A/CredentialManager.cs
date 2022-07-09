@@ -20,13 +20,18 @@ namespace E_A
         Guid ServerSecurityID
         {
             get => _ClientSecurityKey;
-            set => Set("E_A.ServerSecurityID", (_ServerSecurityID =  value).ToString());
+            set { 
+            _ = Set("E_A.ServerSecurityID", (_ServerSecurityID = value).ToString());
+            }
         }
 
         Guid ClientSecurityKey
         {
             get => _ClientSecurityKey;
-            set =>  Set("E_A.ClientSecurityKey", (_ClientSecurityKey = value).ToString());
+            set
+            {
+                _ = Set("E_A.ClientSecurityKey", (_ClientSecurityKey = value).ToString());
+            }
         }
       
       
