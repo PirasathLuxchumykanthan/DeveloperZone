@@ -36,10 +36,15 @@ namespace E_A
 
         public Guid TestID => ClientSecurityKey;
 
-        public virtual async Task<string?> Get(string Key) {
+        public virtual Task<string?> Get(string Key) {
             throw new Exception();
         }
-        public virtual async Task Set(string Key, string Value) => Entrance.Header(Key, Value);
+        public virtual Task Set(string Key, string Value)
+        {
+            Entrance.Header(Key, Value);
+            return Task.CompletedTask;
+        }
+
         private readonly E_E.Entrance Entrance;
   
         public CredentialManager(E_E.Entrance Entrance, E_B.Tasks Tasks)
