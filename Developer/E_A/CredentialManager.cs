@@ -34,7 +34,7 @@ namespace E_A
             }
         }
 
-        public Guid TestID { get; private set; } = Guid.NewGuid();
+        public Guid TestID { get => ClientSecurityKey; } 
 
         public virtual Task<string?> Get(string Key) {
             throw new Exception();

@@ -14,6 +14,7 @@
           "D_A": "1.0.0",
           "D_A_A_A": "1.0.0",
           "D_A_A_B": "1.0.0",
+          "D_A_B": "1.0.0",
           "E_A": "1.0.0",
           "E_B": "1.0.0",
           "E_C": "1.0.0",
@@ -1479,6 +1480,14 @@
           "D_A_A_B.dll": {}
         }
       },
+      "D_A_B/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.5"
+        },
+        "runtime": {
+          "D_A_B.dll": {}
+        }
+      },
       "E_A/1.0.0": {
         "dependencies": {
           "E_B": "1.0.0",
@@ -1897,6 +1906,11 @@
       "sha512": ""
     },
     "D_A_A_B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "D_A_B/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

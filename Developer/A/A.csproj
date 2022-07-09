@@ -32,9 +32,7 @@
 		<SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'tizen'">6.5</SupportedOSPlatformVersion>
 	</PropertyGroup>
 
-	<ItemGroup>
-	  <None Include="Pages\Index.razor" />
-	</ItemGroup>
+
 	<ItemGroup>
 		<!-- App Icon -->
 		<MauiIcon ForegroundFile="Resources\AppIcon\appicon.png" Include="Resources\AppIcon\appicon.svg" BaseSize="540,540" />
@@ -49,6 +47,7 @@
 	  <ProjectReference Include="..\D_A\D_A.csproj" />
 	  <ProjectReference Include="..\D_A_A_A\D_A_A_A.csproj" />
 	  <ProjectReference Include="..\D_A_A_B\D_A_A_B.csproj" />
+	  <ProjectReference Include="..\D_A_B\D_A_B.csproj" />
 	  <ProjectReference Include="..\E_A\E_A.csproj" />
 	  <ProjectReference Include="..\E_B\E_B.csproj" />
 	  <ProjectReference Include="..\E_C\E_C.csproj" />

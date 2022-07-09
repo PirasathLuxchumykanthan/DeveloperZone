@@ -886,6 +886,9 @@
     <AppxPackagedFile Include="D:\OS\Developer\D_A_A_B\bin\Debug\net6.0\D_A_A_B.dll">
       <PackagePath>D_A_A_B.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OS\Developer\D_A_B\bin\Debug\net6.0\D_A_B.dll">
+      <PackagePath>D_A_B.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\OS\Developer\E_A\bin\Debug\net6.0\E_A.dll">
       <PackagePath>E_A.dll</PackagePath>
     </AppxPackagedFile>
@@ -910,8 +913,8 @@
     <AppxPackagedFile Include="D:\OS\Developer\D_A_A_A\obj\Debug\net6.0\staticwebassets.development.json">
       <PackagePath>D_A_A_A.staticwebassets.runtime.json</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\OS\Developer\D_A_A_B\obj\Debug\net6.0\staticwebassets.development.json">
-      <PackagePath>D_A_A_B.staticwebassets.runtime.json</PackagePath>
+    <AppxPackagedFile Include="D:\OS\Developer\D_A_B\obj\Debug\net6.0\staticwebassets.development.json">
+      <PackagePath>D_A_B.staticwebassets.runtime.json</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PirasathLuxchumykant\.nuget\packages\microsoft.aspnetcore.components.webview.maui\6.0.400\lib\net6.0-windows10.0.19041\Microsoft.AspNetCore.Components.WebView.Maui.pri">
       <PackagePath>Microsoft.AspNetCore.Components.WebView.Maui.pri</PackagePath>
@@ -951,6 +954,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\OS\Developer\D_A_A_A\obj\Debug\net6.0\scopedcss\projectbundle\D_A_A_A.bundle.scp.css">
       <PackagePath>wwwroot\_content\D_A_A_A\D_A_A_A.bundle.scp.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OS\Developer\D_A_B\obj\Debug\net6.0\scopedcss\projectbundle\D_A_B.bundle.scp.css">
+      <PackagePath>wwwroot\_content\D_A_B\D_A_B.bundle.scp.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OS\Developer\D_A_B\wwwroot\logo.png">
+      <PackagePath>wwwroot\_content\D_A_B\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\OS\Developer\D_A_B\wwwroot\Static.css">
+      <PackagePath>wwwroot\_content\D_A_B\Static.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\OS\Developer\A\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>

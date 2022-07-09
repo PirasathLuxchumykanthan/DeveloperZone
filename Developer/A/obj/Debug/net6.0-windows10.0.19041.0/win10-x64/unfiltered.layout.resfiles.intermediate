@@ -36,6 +36,11 @@ splashSplashScreen.scale-200.png
 splashSplashScreen.scale-400.png
 wwwroot\A.styles.css
 AboutAssets.txt
+wwwroot\favicon.ico
+wwwroot\index.html
 wwwroot\_content\D_A\D_A.bundle.scp.css
 wwwroot\_content\D_A\Static.css
 wwwroot\_content\D_A_A_A\D_A_A_A.bundle.scp.css
+wwwroot\_content\D_A_B\D_A_B.bundle.scp.css
+wwwroot\_content\D_A_B\logo.png
+wwwroot\_content\D_A_B\Static.css

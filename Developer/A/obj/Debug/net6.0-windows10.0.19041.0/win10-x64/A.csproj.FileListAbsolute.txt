@@ -13,7 +13,6 @@ D:\OS\Developer\A\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlSaveStateFi
 D:\OS\Developer\A\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\A.GeneratedMSBuildEditorConfig.editorconfig
 D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\D_A.staticwebassets.runtime.json
 D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\D_A_A_A.staticwebassets.runtime.json
-D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\D_A_A_B.staticwebassets.runtime.json
 D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\A.exe
 D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
 D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\A.deps.json
@@ -385,3 +384,6 @@ D:\OS\Developer\A\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 D:\OS\Developer\A\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 D:\OS\Developer\A\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\OS\Developer\A\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\D_A_B.staticwebassets.runtime.json
+D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\D_A_B.dll
+D:\OS\Developer\A\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\D_A_B.pdb
