@@ -11,21 +11,21 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = C
 build_property.RootNamespace = C
-build_property.ProjectDir = D:\OS\Developer\C\
+build_property.ProjectDir = /Users/macm1os/Desktop/OS/DeveloperZone/Developer/C/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\OS\Developer\C
+build_property.MSBuildProjectDirectory = /Users/macm1os/Desktop/OS/DeveloperZone/Developer/C
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/OS/Developer/C/App.razor]
+[/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OS/Developer/C/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+[/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OS/Developer/C/_Imports.razor]
+[/Users/macm1os/Desktop/OS/DeveloperZone/Developer/C/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

@@ -8,17 +8,17 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = D_A_A_A
 build_property.RootNamespace = D_A_A_A
-build_property.ProjectDir = D:\OS\Developer\D_A_A_A\
+build_property.ProjectDir = /Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\OS\Developer\D_A_A_A
+build_property.MSBuildProjectDirectory = /Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/OS/Developer/D_A_A_A/_Imports.razor]
+[/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/OS/Developer/D_A_A_A/Component.razor]
+[/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/Component.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-ui92gczeq5

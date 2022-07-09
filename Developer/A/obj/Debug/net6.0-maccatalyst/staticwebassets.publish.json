@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "Hash": "gT7Vxj9aoBY14r1/IsGGedOEmPn4lI1qbRm9fRcNeCM=",
+  "Source": "A",
+  "BasePath": "/",
+  "Mode": "Root",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/D_A_A_A.csproj",
+      "Version": 2,
+      "Source": "D_A_A_A",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier"
+    },
+    {
+      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_B/D_A_A_B.csproj",
+      "Version": 2,
+      "Source": "D_A_A_B",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier"
+    },
+    {
+      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/D_A.csproj",
+      "Version": 2,
+      "Source": "D_A",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "A/wwwroot",
+      "Source": "A",
+      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/A/wwwroot/",
+      "BasePath": "/",
+      "Pattern": "**"
+    },
+    {
+      "Name": "D_A/wwwroot",
+      "Source": "D_A",
+      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/wwwroot/",
+      "BasePath": "_content/D_A",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/A/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/bundle/A.styles.css",
+      "SourceId": "A",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/A/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/bundle/",
+      "BasePath": "/",
+      "RelativePath": "A.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/A/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/scopedcss/bundle/A.styles.css"
+    },
+    {
+      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/A/wwwroot/favicon.ico",
+      "SourceId": "A",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/A/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/A/wwwroot/index.html",
+      "SourceId": "A",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/A/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/obj/Debug/net6.0/scopedcss/projectbundle/D_A_A_A.bundle.scp.css",
+      "SourceId": "D_A_A_A",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "BasePath": "_content/D_A_A_A",
+      "RelativePath": "D_A_A_A.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/obj/Debug/net6.0/scopedcss/projectbundle/D_A_A_A.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/obj/Debug/net6.0/scopedcss/projectbundle/D_A.bundle.scp.css",
+      "SourceId": "D_A",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "BasePath": "_content/D_A",
+      "RelativePath": "D_A.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/obj/Debug/net6.0/scopedcss/projectbundle/D_A.bundle.scp.css"
+    },
+    {
+      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/wwwroot/Static.css",
+      "SourceId": "D_A",
+      "SourceType": "Project",
+      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/wwwroot/",
+      "BasePath": "_content/D_A",
+      "RelativePath": "Static.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/Static.css"
+    }
+  ]
+}

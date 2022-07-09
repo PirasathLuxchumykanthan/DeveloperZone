@@ -1,11 +1,46 @@
 {
   "Version": 1,
-  "Hash": "Lhz0zmxks4Vi8n9zlLlpT59TPIOn7floAGTk37GTfNw=",
+  "Hash": "x3CdhG6oc3DgSdrui52IgFdcxFJNEdlB90zjZkf5lGc=",
   "Source": "D_A_A_A",
   "BasePath": "_content/D_A_A_A",
   "Mode": "Default",
   "ManifestType": "Publish",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/obj/Debug/net6.0/scopedcss/bundle/D_A_A_A.styles.css",
+      "SourceId": "D_A_A_A",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/obj/Debug/net6.0/scopedcss/bundle/",
+      "BasePath": "_content/D_A_A_A",
+      "RelativePath": "D_A_A_A.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/obj/Debug/net6.0/scopedcss/bundle/D_A_A_A.styles.css"
+    },
+    {
+      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/obj/Debug/net6.0/scopedcss/projectbundle/D_A_A_A.bundle.scp.css",
+      "SourceId": "D_A_A_A",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "BasePath": "_content/D_A_A_A",
+      "RelativePath": "D_A_A_A.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/obj/Debug/net6.0/scopedcss/projectbundle/D_A_A_A.bundle.scp.css"
+    }
+  ]
 }
