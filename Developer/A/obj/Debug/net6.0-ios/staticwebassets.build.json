@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ERQBHxKYAbvg1xtT3wv2LY3CwgPS+vBFVC0gx3owM9U=",
+  "Hash": "ZJ52vFWAs2E3OwmDO0WKCkO4LviWV/+EPIWpd3+7JNA=",
   "Source": "A",
   "BasePath": "/",
   "Mode": "Root",
@@ -165,23 +165,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\OS\\Developer\\D_A_A_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A_A_A.bundle.scp.css"
-    },
-    {
-      "Identity": "D:\\OS\\Developer\\D_A_A_B\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A_A_B.bundle.scp.css",
-      "SourceId": "D_A_A_B",
-      "SourceType": "Project",
-      "ContentRoot": "D:\\OS\\Developer\\D_A_A_B\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/D_A_A_B",
-      "RelativePath": "D_A_A_B.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\OS\\Developer\\D_A_A_B\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A_A_B.bundle.scp.css"
     }
   ]
 }
