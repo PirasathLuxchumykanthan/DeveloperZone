@@ -33,10 +33,11 @@ namespace E_A
                 _ = Set("E_A.ClientSecurityKey", (_ClientSecurityKey = value).ToString());
             }
         }
-      
-      
+
+        public Guid TestID => ClientSecurityKey;
+
         public virtual async Task<string?> Get(string Key) {
-            return null;
+            throw new Exception();
         }
         public virtual async Task Set(string Key, string Value) => Entrance.Header(Key, Value);
         private readonly E_E.Entrance Entrance;

@@ -10,4 +10,5 @@ public interface Credential
 {
     
     public E_B.task.Service Service { get; }
+    public Guid TestID { get; }
 }

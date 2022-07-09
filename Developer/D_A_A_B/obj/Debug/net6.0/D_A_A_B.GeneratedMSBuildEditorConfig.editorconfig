@@ -15,10 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\OS\Developer\D_A_A_B
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/OS/Developer/D_A_A_B/Component.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/OS/Developer/D_A_A_B/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
-
-[D:/OS/Developer/D_A_A_B/Component.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50LnJhem9y
-build_metadata.AdditionalFiles.CssScope = b-gb1dxhbfdk
