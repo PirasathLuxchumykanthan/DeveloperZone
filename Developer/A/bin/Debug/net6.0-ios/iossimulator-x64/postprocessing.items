@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>A.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>obj/Debug/net6.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>obj\Debug\net6.0-ios\iossimulator-x64\mtouch-symbols.list</SymbolFile>
       <DSymName>A.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/macm1os/Desktop/OS/DeveloperZone/Developer/A</SourceProjectPath>
+      <SourceProjectPath>D:\OS\Developer\A</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

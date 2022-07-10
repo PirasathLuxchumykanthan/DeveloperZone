@@ -1,13 +1,24 @@
 {
   "Version": 1,
-  "Hash": "1As3Yh6Mh4C8YrMryYZZpsE7rXXmzbRL1twqglYvuKo=",
+  "Hash": "cM08QhrJE0CnfLiiEMh4kLhtPcRRzAXJFrrQAHI2/kc=",
   "Source": "A",
   "BasePath": "/",
   "Mode": "Root",
   "ManifestType": "Publish",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/D_A_A_A.csproj",
+      "Identity": "D:\\OS\\Developer\\D_A\\D_A.csproj",
+      "Version": 2,
+      "Source": "D_A",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\D_A_A_A\\D_A_A_A.csproj",
       "Version": 2,
       "Source": "D_A_A_A",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -18,7 +29,7 @@
       "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier"
     },
     {
-      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_B/D_A_A_B.csproj",
+      "Identity": "D:\\OS\\Developer\\D_A_A_B\\D_A_A_B.csproj",
       "Version": 2,
       "Source": "D_A_A_B",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -29,9 +40,9 @@
       "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier"
     },
     {
-      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/D_A.csproj",
+      "Identity": "D:\\OS\\Developer\\D_A_B\\D_A_B.csproj",
       "Version": 2,
-      "Source": "D_A",
+      "Source": "D_A_B",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
       "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier",
@@ -42,26 +53,33 @@
   ],
   "DiscoveryPatterns": [
     {
-      "Name": "A/wwwroot",
+      "Name": "A\\wwwroot",
       "Source": "A",
-      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/A/wwwroot/",
+      "ContentRoot": "D:\\OS\\Developer\\A\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     },
     {
-      "Name": "D_A/wwwroot",
+      "Name": "D_A\\wwwroot",
       "Source": "D_A",
-      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/wwwroot/",
+      "ContentRoot": "D:\\OS\\Developer\\D_A\\wwwroot\\",
       "BasePath": "_content/D_A",
+      "Pattern": "**"
+    },
+    {
+      "Name": "D_A_B\\wwwroot",
+      "Source": "D_A_B",
+      "ContentRoot": "D:\\OS\\Developer\\D_A_B\\wwwroot\\",
+      "BasePath": "_content/D_A_B",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/A/obj/Debug/net6.0-ios/iossimulator-x64/scopedcss/bundle/A.styles.css",
+      "Identity": "D:\\OS\\Developer\\A\\obj\\Debug\\net6.0-ios\\iossimulator-x64\\scopedcss\\bundle\\A.styles.css",
       "SourceId": "A",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/A/obj/Debug/net6.0-ios/iossimulator-x64/scopedcss/bundle/",
+      "ContentRoot": "D:\\OS\\Developer\\A\\obj\\Debug\\net6.0-ios\\iossimulator-x64\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "A.styles.css",
       "AssetKind": "All",
@@ -72,13 +90,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/A/obj/Debug/net6.0-ios/iossimulator-x64/scopedcss/bundle/A.styles.css"
+      "OriginalItemSpec": "D:\\OS\\Developer\\A\\obj\\Debug\\net6.0-ios\\iossimulator-x64\\scopedcss\\bundle\\A.styles.css"
     },
     {
-      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/A/wwwroot/favicon.ico",
+      "Identity": "D:\\OS\\Developer\\A\\wwwroot\\favicon.ico",
       "SourceId": "A",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/A/wwwroot/",
+      "ContentRoot": "D:\\OS\\Developer\\A\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -89,13 +107,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/favicon.ico"
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/A/wwwroot/index.html",
+      "Identity": "D:\\OS\\Developer\\A\\wwwroot\\index.html",
       "SourceId": "A",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/A/wwwroot/",
+      "ContentRoot": "D:\\OS\\Developer\\A\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -106,30 +124,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/index.html"
+      "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/obj/Debug/net6.0/scopedcss/projectbundle/D_A_A_A.bundle.scp.css",
-      "SourceId": "D_A_A_A",
-      "SourceType": "Project",
-      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/obj/Debug/net6.0/scopedcss/projectbundle/",
-      "BasePath": "_content/D_A_A_A",
-      "RelativePath": "D_A_A_A.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A_A_A/obj/Debug/net6.0/scopedcss/projectbundle/D_A_A_A.bundle.scp.css"
-    },
-    {
-      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/obj/Debug/net6.0/scopedcss/projectbundle/D_A.bundle.scp.css",
+      "Identity": "D:\\OS\\Developer\\D_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A.bundle.scp.css",
       "SourceId": "D_A",
       "SourceType": "Project",
-      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/obj/Debug/net6.0/scopedcss/projectbundle/",
+      "ContentRoot": "D:\\OS\\Developer\\D_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/D_A",
       "RelativePath": "D_A.bundle.scp.css",
       "AssetKind": "All",
@@ -140,13 +141,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/obj/Debug/net6.0/scopedcss/projectbundle/D_A.bundle.scp.css"
+      "OriginalItemSpec": "D:\\OS\\Developer\\D_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A.bundle.scp.css"
     },
     {
-      "Identity": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/wwwroot/Static.css",
+      "Identity": "D:\\OS\\Developer\\D_A\\wwwroot\\Static.css",
       "SourceId": "D_A",
       "SourceType": "Project",
-      "ContentRoot": "/Users/macm1os/Desktop/OS/DeveloperZone/Developer/D_A/wwwroot/",
+      "ContentRoot": "D:\\OS\\Developer\\D_A\\wwwroot\\",
       "BasePath": "_content/D_A",
       "RelativePath": "Static.css",
       "AssetKind": "All",
@@ -157,7 +158,75 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Static.css"
+      "OriginalItemSpec": "wwwroot\\Static.css"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\D_A_A_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A_A_A.bundle.scp.css",
+      "SourceId": "D_A_A_A",
+      "SourceType": "Project",
+      "ContentRoot": "D:\\OS\\Developer\\D_A_A_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/D_A_A_A",
+      "RelativePath": "D_A_A_A.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\OS\\Developer\\D_A_A_A\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A_A_A.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\D_A_B\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A_B.bundle.scp.css",
+      "SourceId": "D_A_B",
+      "SourceType": "Project",
+      "ContentRoot": "D:\\OS\\Developer\\D_A_B\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/D_A_B",
+      "RelativePath": "D_A_B.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\OS\\Developer\\D_A_B\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\D_A_B.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\D_A_B\\wwwroot\\logo.png",
+      "SourceId": "D_A_B",
+      "SourceType": "Project",
+      "ContentRoot": "D:\\OS\\Developer\\D_A_B\\wwwroot\\",
+      "BasePath": "_content/D_A_B",
+      "RelativePath": "logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo.png"
+    },
+    {
+      "Identity": "D:\\OS\\Developer\\D_A_B\\wwwroot\\Static.css",
+      "SourceId": "D_A_B",
+      "SourceType": "Project",
+      "ContentRoot": "D:\\OS\\Developer\\D_A_B\\wwwroot\\",
+      "BasePath": "_content/D_A_B",
+      "RelativePath": "Static.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Static.css"
     }
   ]
 }
